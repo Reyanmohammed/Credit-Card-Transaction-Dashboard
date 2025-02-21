@@ -1,0 +1,851 @@
+Transaction_ID,Enterprise_ID,Industry,Transaction_Amount,Merchant_Category,Payment_Method,Country,Fraud_Flag,Transaction_Date,Enterprise_Size
+TXN282664,ENT8835,Finance,6106.29,Office Supplies,UPI,USA,0,2023-01-01 00:00:00,Medium
+TXN841535,ENT7909,Retail,444.67,Software,UPI,Singapore,0,2023-01-01 01:00:00,Small
+TXN689275,ENT3732,Manufacturing,1180.88,Software,Cash,UK,0,2023-01-01 02:00:00,Large
+TXN827250,ENT2852,Technology,7547.28,Advertising,UPI,USA,0,2023-01-01 03:00:00,Large
+TXN743520,ENT3171,Healthcare,7172.09,Consulting,Credit Card,UK,0,2023-01-01 04:00:00,Small
+TXN925220,ENT1960,Retail,1577.3,Travel,UPI,India,0,2023-01-01 05:00:00,Large
+TXN474158,ENT3611,Technology,636.14,Travel,UPI,India,0,2023-01-01 06:00:00,Small
+TXN334081,ENT2699,Healthcare,5808.24,Office Supplies,Credit Card,Singapore,1,2023-01-01 07:00:00,Large
+TXN797860,ENT7816,Manufacturing,6375.6,Consulting,Cash,India,0,2023-01-01 08:00:00,Small
+TXN717558,ENT8908,Finance,1396.23,Software,Bank Transfer,Australia,0,2023-01-01 09:00:00,Medium
+TXN954017,ENT8178,Finance,4762.51,Travel,Crypto Wallet,Australia,0,2023-01-01 10:00:00,Medium
+TXN283869,ENT3969,Manufacturing,3093.02,Office Supplies,Cash,Australia,0,2023-01-01 11:00:00,Large
+TXN496764,ENT7221,Retail,9316.49,Consulting,UPI,Singapore,0,2023-01-01 12:00:00,Large
+TXN421727,ENT6875,Manufacturing,2231.04,Office Supplies,Bank Transfer,Singapore,0,2023-01-01 13:00:00,Large
+TXN869649,ENT1472,Healthcare,7345.94,Travel,Crypto Wallet,Australia,0,2023-01-01 14:00:00,Large
+TXN821942,ENT3140,Retail,5205.43,Advertising,Crypto Wallet,UK,0,2023-01-01 15:00:00,Medium
+TXN408823,ENT8914,Finance,164.63,Advertising,Crypto Wallet,Australia,0,2023-01-01 16:00:00,Medium
+TXN233534,ENT8997,Healthcare,5194.14,Consulting,Credit Card,UK,0,2023-01-01 17:00:00,Small
+TXN286340,ENT2850,Technology,1039.75,Office Supplies,Credit Card,India,0,2023-01-01 18:00:00,Large
+TXN864234,ENT7738,Technology,6607.67,Software,Bank Transfer,UK,0,2023-01-01 19:00:00,Medium
+TXN101885,ENT8220,Technology,5676.96,Travel,UPI,USA,0,2023-01-01 20:00:00,Small
+TXN836109,ENT1753,Finance,153.75,Advertising,Bank Transfer,Germany,0,2023-01-01 21:00:00,Small
+TXN700660,ENT2037,Manufacturing,2086.69,Advertising,UPI,USA,0,2023-01-01 22:00:00,Small
+TXN510623,ENT5286,Retail,7773.44,Office Supplies,Cash,USA,0,2023-01-01 23:00:00,Medium
+TXN992083,ENT6148,Finance,2793.94,Advertising,Crypto Wallet,Singapore,0,2023-01-02 00:00:00,Small
+TXN908274,ENT1202,Healthcare,5017.87,Office Supplies,Crypto Wallet,Germany,0,2023-01-02 01:00:00,Large
+TXN695048,ENT9598,Healthcare,3154.39,Travel,Credit Card,Singapore,0,2023-01-02 02:00:00,Small
+TXN133955,ENT4669,Technology,9219.19,Office Supplies,Cash,UK,0,2023-01-02 03:00:00,Small
+TXN290926,ENT6542,Retail,5388.94,Advertising,Cash,Australia,0,2023-01-02 04:00:00,Medium
+TXN731650,ENT9504,Technology,6976.93,Office Supplies,UPI,UK,0,2023-01-02 05:00:00,Small
+TXN433674,ENT9570,Healthcare,880.59,Advertising,Cash,Germany,0,2023-01-02 06:00:00,Medium
+TXN948095,ENT2560,Healthcare,451.34,Consulting,Credit Card,India,0,2023-01-02 07:00:00,Medium
+TXN741079,ENT8091,Manufacturing,2629.32,Advertising,UPI,UK,0,2023-01-02 08:00:00,Large
+TXN331625,ENT5072,Manufacturing,3125.89,Advertising,Bank Transfer,USA,0,2023-01-02 09:00:00,Small
+TXN770718,ENT8895,Manufacturing,6892.42,Advertising,UPI,Germany,0,2023-01-02 10:00:00,Large
+TXN693022,ENT6664,Technology,5712.85,Consulting,Bank Transfer,Germany,0,2023-01-02 11:00:00,Large
+TXN209167,ENT7305,Retail,3777.07,Software,UPI,UK,0,2023-01-02 12:00:00,Small
+TXN620287,ENT3435,Manufacturing,6558.47,Advertising,Crypto Wallet,UK,0,2023-01-02 13:00:00,Small
+TXN247475,ENT1894,Finance,1677.48,Software,Bank Transfer,Singapore,0,2023-01-02 14:00:00,Medium
+TXN447255,ENT1190,Manufacturing,681.72,Travel,Credit Card,Singapore,0,2023-01-02 15:00:00,Small
+TXN881549,ENT3571,Technology,8552.33,Office Supplies,Bank Transfer,USA,0,2023-01-02 16:00:00,Medium
+TXN181586,ENT9283,Retail,5661.26,Software,Bank Transfer,Germany,0,2023-01-02 17:00:00,Large
+TXN349556,ENT8688,Manufacturing,6508.5,Travel,UPI,India,0,2023-01-02 18:00:00,Large
+TXN463656,ENT9123,Retail,3107.06,Office Supplies,Crypto Wallet,India,0,2023-01-02 19:00:00,Medium
+TXN435039,ENT3709,Finance,3750.95,Advertising,UPI,Germany,0,2023-01-02 20:00:00,Small
+TXN276042,ENT2226,Healthcare,869.56,Advertising,UPI,USA,0,2023-01-02 21:00:00,Small
+TXN767090,ENT9055,Retail,8577.03,Advertising,Crypto Wallet,Singapore,0,2023-01-02 22:00:00,Medium
+TXN193035,ENT6253,Manufacturing,5944.77,Consulting,UPI,Singapore,0,2023-01-02 23:00:00,Large
+TXN961574,ENT4946,Technology,882.1,Consulting,Crypto Wallet,Singapore,0,2023-01-03 00:00:00,Medium
+TXN843404,ENT6421,Technology,8055.07,Consulting,Credit Card,India,0,2023-01-03 01:00:00,Small
+TXN802571,ENT5557,Technology,4468.95,Consulting,Crypto Wallet,India,1,2023-01-03 02:00:00,Small
+TXN770147,ENT1824,Technology,7662.76,Travel,Cash,USA,0,2023-01-03 03:00:00,Medium
+TXN864711,ENT9305,Retail,175.57,Travel,Crypto Wallet,India,0,2023-01-03 04:00:00,Small
+TXN452058,ENT4648,Technology,335.96,Advertising,Crypto Wallet,UK,0,2023-01-03 05:00:00,Large
+TXN568325,ENT7203,Healthcare,1749.29,Office Supplies,Cash,India,0,2023-01-03 06:00:00,Medium
+TXN111949,ENT7607,Finance,2148.62,Consulting,Crypto Wallet,Singapore,0,2023-01-03 07:00:00,Large
+TXN378095,ENT4850,Retail,7651.36,Office Supplies,Bank Transfer,USA,0,2023-01-03 08:00:00,Large
+TXN319869,ENT2291,Retail,7081.61,Travel,UPI,Germany,0,2023-01-03 09:00:00,Medium
+TXN361662,ENT8521,Technology,6180.08,Consulting,UPI,Germany,0,2023-01-03 10:00:00,Medium
+TXN826847,ENT8277,Technology,8854.35,Travel,Credit Card,USA,0,2023-01-03 11:00:00,Small
+TXN171087,ENT8341,Retail,2509.13,Travel,Credit Card,UK,0,2023-01-03 12:00:00,Small
+TXN467506,ENT2442,Technology,9048.83,Software,Cash,Germany,0,2023-01-03 13:00:00,Medium
+TXN369125,ENT9166,Technology,9099.24,Travel,Bank Transfer,Singapore,0,2023-01-03 14:00:00,Medium
+TXN925250,ENT8324,Technology,4370.88,Advertising,Credit Card,Germany,0,2023-01-03 15:00:00,Small
+TXN213282,ENT6178,Technology,989.14,Travel,UPI,Germany,0,2023-01-03 16:00:00,Small
+TXN855408,ENT2944,Technology,7279.27,Consulting,Credit Card,Singapore,0,2023-01-03 17:00:00,Small
+TXN101343,ENT9148,Manufacturing,3402.44,Advertising,Credit Card,India,0,2023-01-03 18:00:00,Medium
+TXN150486,ENT1291,Manufacturing,7959.55,Travel,Crypto Wallet,UK,0,2023-01-03 19:00:00,Medium
+TXN504684,ENT2681,Manufacturing,1678.72,Advertising,Credit Card,Singapore,0,2023-01-03 20:00:00,Small
+TXN559507,ENT7609,Retail,5418.18,Travel,Cash,Singapore,0,2023-01-03 21:00:00,Large
+TXN868170,ENT7755,Finance,5105.33,Advertising,UPI,Australia,0,2023-01-03 22:00:00,Large
+TXN540038,ENT1587,Retail,1048.13,Office Supplies,Cash,USA,0,2023-01-03 23:00:00,Small
+TXN274418,ENT9996,Manufacturing,3665.16,Software,Cash,UK,0,2023-01-04 00:00:00,Medium
+TXN534130,ENT1002,Retail,893.32,Advertising,Bank Transfer,India,0,2023-01-04 01:00:00,Medium
+TXN617033,ENT2489,Finance,4674.17,Consulting,Crypto Wallet,Australia,0,2023-01-04 02:00:00,Large
+TXN497108,ENT5990,Technology,8436.9,Software,Cash,Singapore,0,2023-01-04 03:00:00,Small
+TXN468292,ENT9328,Healthcare,2738.54,Software,Bank Transfer,Australia,0,2023-01-04 04:00:00,Large
+TXN672547,ENT4389,Manufacturing,7660.38,Travel,UPI,India,0,2023-01-04 05:00:00,Large
+TXN493580,ENT8474,Manufacturing,1875.1,Advertising,UPI,Australia,0,2023-01-04 06:00:00,Small
+TXN206355,ENT6584,Finance,6753.66,Software,Bank Transfer,Australia,0,2023-01-04 07:00:00,Large
+TXN969067,ENT6953,Technology,9159.6,Consulting,Cash,Australia,0,2023-01-04 08:00:00,Medium
+TXN602780,ENT1889,Technology,3273.08,Consulting,Cash,Singapore,0,2023-01-04 09:00:00,Large
+TXN927043,ENT4652,Healthcare,9009.1,Consulting,Crypto Wallet,Singapore,0,2023-01-04 10:00:00,Small
+TXN706135,ENT8445,Technology,5078.94,Travel,Crypto Wallet,USA,0,2023-01-04 11:00:00,Medium
+TXN782591,ENT6439,Finance,3202.21,Office Supplies,UPI,Germany,0,2023-01-04 12:00:00,Medium
+TXN895075,ENT8751,Technology,8970.26,Advertising,Crypto Wallet,UK,0,2023-01-04 13:00:00,Large
+TXN820539,ENT6952,Finance,368.77,Software,Bank Transfer,USA,0,2023-01-04 14:00:00,Medium
+TXN336540,ENT8414,Manufacturing,328.79,Advertising,UPI,India,0,2023-01-04 15:00:00,Small
+TXN270557,ENT2868,Manufacturing,6018.3,Software,Cash,Australia,0,2023-01-04 16:00:00,Large
+TXN573209,ENT2596,Manufacturing,7977.67,Travel,UPI,Singapore,0,2023-01-04 17:00:00,Medium
+TXN177289,ENT4633,Retail,7527.89,Advertising,Credit Card,Australia,0,2023-01-04 18:00:00,Small
+TXN938016,ENT1035,Manufacturing,840.72,Travel,UPI,Singapore,0,2023-01-04 19:00:00,Large
+TXN986846,ENT6592,Finance,9505.0,Travel,Crypto Wallet,UK,1,2023-01-04 20:00:00,Small
+TXN135035,ENT6818,Healthcare,7045.48,Advertising,Bank Transfer,USA,0,2023-01-04 21:00:00,Medium
+TXN409234,ENT5783,Technology,9493.66,Advertising,Cash,USA,0,2023-01-04 22:00:00,Large
+TXN121053,ENT9973,Manufacturing,3324.52,Software,Cash,India,0,2023-01-04 23:00:00,Large
+TXN434198,ENT9552,Retail,6954.69,Consulting,Crypto Wallet,USA,0,2023-01-05 00:00:00,Medium
+TXN373812,ENT7125,Retail,8606.39,Travel,Crypto Wallet,USA,0,2023-01-05 01:00:00,Small
+TXN209812,ENT2741,Finance,3835.62,Office Supplies,Crypto Wallet,Germany,0,2023-01-05 02:00:00,Medium
+TXN177804,ENT1750,Healthcare,9650.36,Software,Credit Card,UK,0,2023-01-05 03:00:00,Large
+TXN458411,ENT3689,Manufacturing,2686.68,Software,Bank Transfer,Australia,0,2023-01-05 04:00:00,Large
+TXN278368,ENT9067,Manufacturing,3190.36,Consulting,Credit Card,USA,1,2023-01-05 05:00:00,Medium
+TXN493696,ENT3301,Retail,9207.27,Consulting,Crypto Wallet,India,0,2023-01-05 06:00:00,Small
+TXN268720,ENT7704,Finance,9698.11,Travel,Bank Transfer,Australia,0,2023-01-05 07:00:00,Medium
+TXN867541,ENT2752,Retail,2887.7,Software,Crypto Wallet,Singapore,0,2023-01-05 08:00:00,Small
+TXN178645,ENT5166,Retail,1407.08,Software,Bank Transfer,USA,0,2023-01-05 09:00:00,Small
+TXN673619,ENT4209,Healthcare,7602.6,Office Supplies,Cash,USA,0,2023-01-05 10:00:00,Large
+TXN197627,ENT4072,Finance,9300.17,Travel,Credit Card,Australia,0,2023-01-05 11:00:00,Small
+TXN454366,ENT2978,Healthcare,6027.1,Travel,Crypto Wallet,Singapore,0,2023-01-05 12:00:00,Large
+TXN722886,ENT7437,Finance,6363.46,Consulting,Crypto Wallet,Germany,0,2023-01-05 13:00:00,Small
+TXN743453,ENT4532,Manufacturing,7641.29,Travel,UPI,UK,0,2023-01-05 14:00:00,Small
+TXN606186,ENT8488,Technology,1573.19,Office Supplies,Cash,Germany,0,2023-01-05 15:00:00,Large
+TXN838726,ENT4122,Technology,9736.02,Travel,Crypto Wallet,India,0,2023-01-05 16:00:00,Small
+TXN132498,ENT6536,Finance,3675.08,Advertising,Credit Card,Australia,0,2023-01-05 17:00:00,Medium
+TXN552275,ENT2765,Technology,6300.99,Advertising,Cash,USA,0,2023-01-05 18:00:00,Small
+TXN785386,ENT7790,Retail,4712.73,Office Supplies,Crypto Wallet,Germany,0,2023-01-05 19:00:00,Large
+TXN273012,ENT1761,Manufacturing,4708.4,Consulting,Credit Card,UK,0,2023-01-05 20:00:00,Large
+TXN736818,ENT3018,Manufacturing,7042.31,Software,UPI,India,0,2023-01-05 21:00:00,Medium
+TXN555292,ENT8381,Technology,9946.89,Travel,UPI,Germany,0,2023-01-05 22:00:00,Small
+TXN264735,ENT8493,Finance,6607.65,Consulting,Credit Card,USA,0,2023-01-05 23:00:00,Medium
+TXN156157,ENT9260,Retail,7950.89,Consulting,Cash,UK,0,2023-01-06 00:00:00,Small
+TXN206176,ENT3205,Finance,324.78,Travel,Credit Card,USA,0,2023-01-06 01:00:00,Medium
+TXN447177,ENT9172,Technology,8113.75,Software,Credit Card,USA,0,2023-01-06 02:00:00,Large
+TXN315535,ENT1071,Manufacturing,3034.76,Travel,UPI,India,0,2023-01-06 03:00:00,Large
+TXN299212,ENT9689,Manufacturing,1310.68,Software,UPI,UK,0,2023-01-06 04:00:00,Medium
+TXN529161,ENT1795,Finance,1177.67,Office Supplies,UPI,Singapore,0,2023-01-06 05:00:00,Small
+TXN831063,ENT8091,Healthcare,6814.75,Software,Crypto Wallet,USA,0,2023-01-06 06:00:00,Small
+TXN681028,ENT8912,Finance,9976.29,Consulting,Crypto Wallet,UK,0,2023-01-06 07:00:00,Large
+TXN857111,ENT9328,Healthcare,6678.64,Office Supplies,Bank Transfer,USA,0,2023-01-06 08:00:00,Small
+TXN865433,ENT3903,Finance,2660.36,Advertising,Crypto Wallet,Germany,0,2023-01-06 09:00:00,Medium
+TXN666362,ENT3845,Healthcare,2072.89,Office Supplies,Cash,Germany,0,2023-01-06 10:00:00,Medium
+TXN378150,ENT3103,Healthcare,5283.27,Software,Cash,UK,0,2023-01-06 11:00:00,Small
+TXN792687,ENT2696,Healthcare,697.14,Office Supplies,UPI,India,0,2023-01-06 12:00:00,Large
+TXN395198,ENT7347,Healthcare,4023.34,Office Supplies,Credit Card,Singapore,0,2023-01-06 13:00:00,Large
+TXN411847,ENT6273,Retail,6679.04,Advertising,UPI,Germany,0,2023-01-06 14:00:00,Large
+TXN349087,ENT9259,Healthcare,9678.24,Software,Credit Card,India,0,2023-01-06 15:00:00,Large
+TXN200575,ENT7302,Healthcare,4285.25,Consulting,UPI,Singapore,0,2023-01-06 16:00:00,Large
+TXN152046,ENT7859,Manufacturing,2042.23,Office Supplies,UPI,Germany,0,2023-01-06 17:00:00,Medium
+TXN511987,ENT5067,Retail,8182.76,Travel,Cash,Singapore,0,2023-01-06 18:00:00,Small
+TXN699544,ENT5482,Healthcare,7454.79,Consulting,Credit Card,Australia,0,2023-01-06 19:00:00,Medium
+TXN676363,ENT7518,Technology,8604.05,Office Supplies,Bank Transfer,USA,0,2023-01-06 20:00:00,Large
+TXN980651,ENT6617,Retail,2186.45,Consulting,Bank Transfer,UK,0,2023-01-06 21:00:00,Large
+TXN614796,ENT5819,Manufacturing,4078.08,Travel,UPI,Germany,0,2023-01-06 22:00:00,Small
+TXN261050,ENT8419,Finance,9816.47,Consulting,UPI,Germany,0,2023-01-06 23:00:00,Small
+TXN157152,ENT3185,Manufacturing,1622.52,Consulting,Cash,USA,0,2023-01-07 00:00:00,Small
+TXN478356,ENT3263,Manufacturing,6730.94,Travel,Credit Card,Germany,1,2023-01-07 01:00:00,Medium
+TXN104000,ENT7762,Retail,2409.99,Travel,UPI,Germany,0,2023-01-07 02:00:00,Small
+TXN548377,ENT9393,Retail,5026.58,Travel,Bank Transfer,Australia,0,2023-01-07 03:00:00,Medium
+TXN191884,ENT5897,Technology,8015.07,Advertising,Credit Card,Germany,0,2023-01-07 04:00:00,Large
+TXN408857,ENT9975,Technology,4911.43,Travel,UPI,Germany,0,2023-01-07 05:00:00,Medium
+TXN963918,ENT6143,Retail,8064.54,Consulting,Credit Card,Germany,0,2023-01-07 06:00:00,Small
+TXN794178,ENT4560,Retail,4292.03,Travel,Cash,India,0,2023-01-07 07:00:00,Medium
+TXN755455,ENT4291,Retail,9993.56,Office Supplies,Bank Transfer,Germany,0,2023-01-07 08:00:00,Medium
+TXN729371,ENT4435,Finance,4386.49,Travel,Credit Card,USA,0,2023-01-07 09:00:00,Medium
+TXN603660,ENT5760,Manufacturing,1536.33,Travel,Bank Transfer,Australia,0,2023-01-07 10:00:00,Small
+TXN309374,ENT6657,Technology,4048.6,Software,UPI,Germany,0,2023-01-07 11:00:00,Medium
+TXN201698,ENT3173,Technology,7438.8,Consulting,Crypto Wallet,Singapore,1,2023-01-07 12:00:00,Small
+TXN126985,ENT3913,Healthcare,8486.98,Consulting,Credit Card,Australia,0,2023-01-07 13:00:00,Medium
+TXN317005,ENT9255,Finance,4628.03,Office Supplies,Bank Transfer,Australia,0,2023-01-07 14:00:00,Medium
+TXN279130,ENT9888,Retail,5965.04,Advertising,Credit Card,Singapore,1,2023-01-07 15:00:00,Medium
+TXN769191,ENT6281,Retail,8456.66,Software,UPI,USA,0,2023-01-07 16:00:00,Small
+TXN405986,ENT2890,Finance,8144.78,Office Supplies,UPI,India,0,2023-01-07 17:00:00,Small
+TXN185916,ENT6771,Technology,6594.35,Office Supplies,Bank Transfer,USA,0,2023-01-07 18:00:00,Small
+TXN596574,ENT8870,Retail,8159.52,Consulting,Cash,India,0,2023-01-07 19:00:00,Large
+TXN984756,ENT7839,Healthcare,5780.31,Software,Credit Card,UK,0,2023-01-07 20:00:00,Small
+TXN221119,ENT9747,Technology,96.25,Consulting,Credit Card,Singapore,0,2023-01-07 21:00:00,Medium
+TXN423331,ENT5684,Manufacturing,460.6,Advertising,UPI,Australia,0,2023-01-07 22:00:00,Large
+TXN923002,ENT7920,Finance,9799.09,Consulting,Credit Card,Australia,0,2023-01-07 23:00:00,Small
+TXN516774,ENT1209,Technology,1492.67,Travel,Bank Transfer,Australia,0,2023-01-08 00:00:00,Small
+TXN593821,ENT9564,Manufacturing,4074.94,Consulting,Crypto Wallet,Singapore,0,2023-01-08 01:00:00,Large
+TXN612855,ENT2744,Healthcare,9341.42,Travel,UPI,Singapore,0,2023-01-08 02:00:00,Large
+TXN793150,ENT1414,Finance,1990.64,Office Supplies,Crypto Wallet,India,0,2023-01-08 03:00:00,Small
+TXN377877,ENT7240,Retail,8445.72,Advertising,Credit Card,Australia,0,2023-01-08 04:00:00,Large
+TXN195563,ENT3381,Retail,8191.76,Travel,Cash,USA,0,2023-01-08 05:00:00,Medium
+TXN773045,ENT1869,Manufacturing,9863.98,Advertising,Bank Transfer,India,0,2023-01-08 06:00:00,Medium
+TXN670557,ENT1927,Technology,2852.73,Consulting,Credit Card,Australia,0,2023-01-08 07:00:00,Medium
+TXN506351,ENT4275,Healthcare,3187.49,Consulting,Bank Transfer,Singapore,0,2023-01-08 08:00:00,Small
+TXN293862,ENT5374,Manufacturing,9033.64,Office Supplies,Credit Card,Singapore,0,2023-01-08 09:00:00,Medium
+TXN489043,ENT3636,Healthcare,2379.09,Consulting,Credit Card,Singapore,0,2023-01-08 10:00:00,Large
+TXN499974,ENT5695,Healthcare,5501.61,Travel,Credit Card,Australia,0,2023-01-08 11:00:00,Medium
+TXN487345,ENT5105,Healthcare,7088.08,Office Supplies,UPI,Singapore,1,2023-01-08 12:00:00,Large
+TXN295646,ENT3399,Finance,2755.25,Advertising,Crypto Wallet,UK,0,2023-01-08 13:00:00,Medium
+TXN567429,ENT2016,Manufacturing,9387.21,Office Supplies,Cash,Singapore,0,2023-01-08 14:00:00,Large
+TXN146784,ENT5835,Finance,6673.69,Advertising,Crypto Wallet,Australia,0,2023-01-08 15:00:00,Medium
+TXN376085,ENT4342,Technology,519.04,Software,Crypto Wallet,India,0,2023-01-08 16:00:00,Medium
+TXN561101,ENT9866,Technology,1400.59,Travel,Bank Transfer,Singapore,0,2023-01-08 17:00:00,Medium
+TXN587648,ENT1529,Retail,1948.28,Travel,UPI,Germany,0,2023-01-08 18:00:00,Large
+TXN376195,ENT6876,Retail,2487.33,Advertising,UPI,UK,0,2023-01-08 19:00:00,Large
+TXN337232,ENT8415,Retail,7320.24,Consulting,Credit Card,Australia,0,2023-01-08 20:00:00,Medium
+TXN977740,ENT2679,Technology,934.91,Consulting,Crypto Wallet,Singapore,0,2023-01-08 21:00:00,Large
+TXN381607,ENT4675,Healthcare,3538.42,Software,Cash,Germany,0,2023-01-08 22:00:00,Large
+TXN691655,ENT7371,Healthcare,9118.26,Advertising,Bank Transfer,Australia,0,2023-01-08 23:00:00,Small
+TXN164633,ENT4892,Manufacturing,5588.84,Software,UPI,India,0,2023-01-09 00:00:00,Medium
+TXN258471,ENT9370,Technology,2691.69,Advertising,Credit Card,UK,0,2023-01-09 01:00:00,Large
+TXN888775,ENT5712,Retail,9572.71,Software,Cash,Singapore,0,2023-01-09 02:00:00,Large
+TXN830302,ENT1769,Technology,2480.94,Advertising,Crypto Wallet,India,0,2023-01-09 03:00:00,Large
+TXN799891,ENT7251,Healthcare,9055.74,Travel,Cash,Australia,0,2023-01-09 04:00:00,Large
+TXN201400,ENT7349,Healthcare,7271.41,Software,UPI,Germany,0,2023-01-09 05:00:00,Small
+TXN189870,ENT7825,Finance,7418.18,Software,Bank Transfer,Australia,0,2023-01-09 06:00:00,Large
+TXN800596,ENT6122,Finance,7661.15,Advertising,Crypto Wallet,Australia,0,2023-01-09 07:00:00,Large
+TXN460491,ENT1881,Manufacturing,5090.36,Office Supplies,Bank Transfer,UK,0,2023-01-09 08:00:00,Small
+TXN947438,ENT1212,Technology,8155.06,Office Supplies,Cash,Singapore,0,2023-01-09 09:00:00,Medium
+TXN667750,ENT5117,Finance,8370.12,Travel,Cash,India,0,2023-01-09 10:00:00,Medium
+TXN534096,ENT4327,Finance,3636.84,Consulting,Credit Card,UK,0,2023-01-09 11:00:00,Small
+TXN893202,ENT8259,Technology,4033.43,Consulting,Crypto Wallet,Germany,0,2023-01-09 12:00:00,Medium
+TXN718372,ENT4695,Healthcare,8893.13,Travel,Cash,Singapore,0,2023-01-09 13:00:00,Medium
+TXN338564,ENT7025,Manufacturing,5271.06,Consulting,UPI,UK,0,2023-01-09 14:00:00,Small
+TXN680493,ENT9955,Manufacturing,8676.09,Advertising,UPI,Germany,0,2023-01-09 15:00:00,Large
+TXN163946,ENT4218,Manufacturing,6286.36,Office Supplies,Bank Transfer,Germany,0,2023-01-09 16:00:00,Small
+TXN981639,ENT4170,Finance,5956.0,Travel,UPI,India,0,2023-01-09 17:00:00,Small
+TXN505910,ENT5819,Healthcare,358.26,Advertising,Cash,Australia,0,2023-01-09 18:00:00,Small
+TXN958160,ENT8353,Manufacturing,2815.05,Travel,UPI,Germany,0,2023-01-09 19:00:00,Small
+TXN647967,ENT3906,Technology,5045.47,Office Supplies,Crypto Wallet,Germany,0,2023-01-09 20:00:00,Small
+TXN538967,ENT2220,Manufacturing,5893.81,Consulting,Bank Transfer,Australia,0,2023-01-09 21:00:00,Large
+TXN661527,ENT4063,Retail,6322.82,Advertising,Crypto Wallet,USA,0,2023-01-09 22:00:00,Medium
+TXN820442,ENT3847,Healthcare,7176.42,Office Supplies,Cash,Germany,0,2023-01-09 23:00:00,Small
+TXN597889,ENT9418,Retail,6579.52,Travel,Cash,Singapore,0,2023-01-10 00:00:00,Large
+TXN700534,ENT2955,Healthcare,8493.34,Software,UPI,UK,0,2023-01-10 01:00:00,Small
+TXN347088,ENT7180,Technology,2989.93,Advertising,Credit Card,Australia,0,2023-01-10 02:00:00,Large
+TXN599397,ENT1665,Finance,6433.62,Travel,Credit Card,Australia,0,2023-01-10 03:00:00,Medium
+TXN413369,ENT8020,Finance,559.04,Travel,Cash,Australia,0,2023-01-10 04:00:00,Large
+TXN182790,ENT5572,Healthcare,4827.89,Office Supplies,Cash,Singapore,0,2023-01-10 05:00:00,Large
+TXN513982,ENT5329,Manufacturing,2716.93,Travel,Bank Transfer,Australia,0,2023-01-10 06:00:00,Medium
+TXN995420,ENT3131,Retail,3839.83,Advertising,Cash,Singapore,0,2023-01-10 07:00:00,Medium
+TXN849003,ENT3636,Technology,3578.89,Advertising,Cash,India,0,2023-01-10 08:00:00,Large
+TXN136415,ENT5178,Manufacturing,651.29,Travel,Bank Transfer,USA,0,2023-01-10 09:00:00,Small
+TXN626491,ENT1092,Finance,4693.13,Office Supplies,Crypto Wallet,Australia,0,2023-01-10 10:00:00,Small
+TXN698967,ENT6415,Manufacturing,9946.56,Advertising,Crypto Wallet,USA,0,2023-01-10 11:00:00,Medium
+TXN641922,ENT8640,Retail,3024.41,Software,Bank Transfer,Australia,0,2023-01-10 12:00:00,Small
+TXN939333,ENT3536,Finance,7374.65,Consulting,Bank Transfer,Singapore,0,2023-01-10 13:00:00,Medium
+TXN699245,ENT1654,Healthcare,5500.49,Office Supplies,Crypto Wallet,UK,0,2023-01-10 14:00:00,Large
+TXN810446,ENT3518,Technology,3285.99,Office Supplies,Crypto Wallet,USA,0,2023-01-10 15:00:00,Large
+TXN750403,ENT6285,Technology,941.59,Consulting,Crypto Wallet,USA,0,2023-01-10 16:00:00,Small
+TXN254610,ENT1833,Finance,2197.79,Consulting,Crypto Wallet,Singapore,0,2023-01-10 17:00:00,Medium
+TXN226124,ENT5934,Healthcare,7829.44,Advertising,UPI,USA,0,2023-01-10 18:00:00,Small
+TXN893969,ENT9037,Retail,2826.25,Travel,Bank Transfer,India,0,2023-01-10 19:00:00,Small
+TXN570852,ENT6866,Technology,1485.81,Travel,Credit Card,Singapore,0,2023-01-10 20:00:00,Large
+TXN281276,ENT2194,Finance,3346.42,Software,UPI,USA,0,2023-01-10 21:00:00,Small
+TXN275284,ENT6207,Technology,5861.23,Travel,Credit Card,USA,1,2023-01-10 22:00:00,Large
+TXN322182,ENT9608,Healthcare,7049.46,Software,Credit Card,USA,0,2023-01-10 23:00:00,Medium
+TXN947732,ENT4603,Retail,3904.28,Software,Cash,Singapore,0,2023-01-11 00:00:00,Small
+TXN302087,ENT4012,Healthcare,5006.56,Office Supplies,Bank Transfer,UK,0,2023-01-11 01:00:00,Large
+TXN232315,ENT9529,Manufacturing,4576.42,Office Supplies,UPI,Germany,0,2023-01-11 02:00:00,Small
+TXN144748,ENT2117,Healthcare,139.58,Advertising,Bank Transfer,Australia,0,2023-01-11 03:00:00,Medium
+TXN543940,ENT9276,Healthcare,3986.22,Consulting,Crypto Wallet,USA,0,2023-01-11 04:00:00,Small
+TXN182175,ENT3611,Technology,5893.83,Consulting,Bank Transfer,Germany,0,2023-01-11 05:00:00,Small
+TXN816308,ENT7814,Healthcare,5720.95,Software,Credit Card,Germany,0,2023-01-11 06:00:00,Large
+TXN556542,ENT9897,Finance,7510.19,Consulting,Crypto Wallet,USA,0,2023-01-11 07:00:00,Medium
+TXN311727,ENT9798,Technology,6720.24,Software,Bank Transfer,USA,0,2023-01-11 08:00:00,Medium
+TXN962520,ENT7609,Technology,2804.23,Consulting,Bank Transfer,Australia,0,2023-01-11 09:00:00,Medium
+TXN757694,ENT2506,Manufacturing,2593.65,Advertising,Credit Card,Germany,1,2023-01-11 10:00:00,Small
+TXN255061,ENT6724,Finance,4668.21,Office Supplies,Crypto Wallet,UK,0,2023-01-11 11:00:00,Large
+TXN974625,ENT4624,Healthcare,7343.05,Office Supplies,Credit Card,Germany,0,2023-01-11 12:00:00,Small
+TXN723952,ENT4495,Manufacturing,983.58,Software,Bank Transfer,UK,0,2023-01-11 13:00:00,Small
+TXN370413,ENT6437,Finance,9485.85,Consulting,UPI,India,0,2023-01-11 14:00:00,Small
+TXN435281,ENT6424,Manufacturing,5454.37,Travel,UPI,UK,0,2023-01-11 15:00:00,Medium
+TXN862422,ENT6911,Retail,3098.76,Advertising,Cash,Australia,0,2023-01-11 16:00:00,Large
+TXN946561,ENT5809,Healthcare,6949.24,Consulting,UPI,Singapore,0,2023-01-11 17:00:00,Medium
+TXN170267,ENT4579,Manufacturing,495.02,Travel,Crypto Wallet,USA,0,2023-01-11 18:00:00,Small
+TXN191254,ENT9691,Retail,4869.75,Advertising,Cash,India,0,2023-01-11 19:00:00,Small
+TXN506951,ENT8780,Healthcare,4885.4,Advertising,Crypto Wallet,Germany,0,2023-01-11 20:00:00,Large
+TXN683390,ENT1144,Manufacturing,1661.65,Office Supplies,UPI,UK,0,2023-01-11 21:00:00,Medium
+TXN516656,ENT2879,Manufacturing,8382.01,Software,UPI,India,0,2023-01-11 22:00:00,Small
+TXN678870,ENT6668,Manufacturing,7978.28,Consulting,Bank Transfer,Singapore,0,2023-01-11 23:00:00,Small
+TXN441968,ENT8301,Manufacturing,1569.69,Advertising,Crypto Wallet,UK,0,2023-01-12 00:00:00,Large
+TXN998235,ENT4937,Technology,3670.08,Consulting,Credit Card,Australia,0,2023-01-12 01:00:00,Small
+TXN389617,ENT4994,Manufacturing,1049.27,Advertising,Bank Transfer,Germany,0,2023-01-12 02:00:00,Medium
+TXN644932,ENT1653,Technology,8493.66,Office Supplies,Crypto Wallet,Germany,0,2023-01-12 03:00:00,Medium
+TXN580412,ENT6258,Technology,3267.04,Software,Cash,UK,0,2023-01-12 04:00:00,Small
+TXN112964,ENT7248,Retail,4421.2,Travel,Crypto Wallet,Singapore,0,2023-01-12 05:00:00,Small
+TXN924758,ENT2857,Healthcare,3272.53,Travel,Cash,USA,0,2023-01-12 06:00:00,Small
+TXN834435,ENT7322,Technology,3134.76,Office Supplies,Cash,USA,0,2023-01-12 07:00:00,Large
+TXN753323,ENT5203,Finance,7485.66,Advertising,UPI,Germany,0,2023-01-12 08:00:00,Large
+TXN716118,ENT9851,Technology,7488.28,Office Supplies,Credit Card,Singapore,0,2023-01-12 09:00:00,Medium
+TXN647945,ENT5633,Finance,5201.99,Software,Crypto Wallet,Germany,0,2023-01-12 10:00:00,Medium
+TXN919656,ENT1404,Retail,6593.29,Travel,Credit Card,USA,0,2023-01-12 11:00:00,Small
+TXN539976,ENT9468,Finance,5141.05,Consulting,Cash,Germany,0,2023-01-12 12:00:00,Small
+TXN217984,ENT7143,Retail,334.46,Travel,UPI,UK,0,2023-01-12 13:00:00,Small
+TXN534574,ENT9426,Retail,706.76,Software,Credit Card,Australia,0,2023-01-12 14:00:00,Large
+TXN256911,ENT9335,Retail,3868.22,Advertising,Bank Transfer,UK,0,2023-01-12 15:00:00,Large
+TXN255398,ENT8300,Finance,7509.98,Office Supplies,Cash,Australia,0,2023-01-12 16:00:00,Small
+TXN694116,ENT8975,Finance,9136.6,Travel,Bank Transfer,Singapore,0,2023-01-12 17:00:00,Small
+TXN716493,ENT1718,Retail,345.6,Travel,Credit Card,USA,0,2023-01-12 18:00:00,Medium
+TXN710981,ENT5856,Retail,3711.9,Consulting,Credit Card,Singapore,0,2023-01-12 19:00:00,Large
+TXN895216,ENT4154,Healthcare,2276.64,Office Supplies,Credit Card,Singapore,0,2023-01-12 20:00:00,Small
+TXN205071,ENT6248,Retail,8161.29,Consulting,Crypto Wallet,USA,0,2023-01-12 21:00:00,Large
+TXN210766,ENT9419,Manufacturing,8467.38,Consulting,Cash,India,0,2023-01-12 22:00:00,Small
+TXN690016,ENT2349,Healthcare,2103.77,Advertising,Cash,India,0,2023-01-12 23:00:00,Small
+TXN917411,ENT2572,Healthcare,7122.73,Travel,Cash,Germany,0,2023-01-13 00:00:00,Medium
+TXN205896,ENT3742,Healthcare,7330.97,Office Supplies,Crypto Wallet,India,0,2023-01-13 01:00:00,Medium
+TXN923914,ENT9814,Manufacturing,1811.72,Advertising,Credit Card,UK,0,2023-01-13 02:00:00,Medium
+TXN399990,ENT9736,Healthcare,4365.27,Advertising,Credit Card,Australia,0,2023-01-13 03:00:00,Small
+TXN661652,ENT1120,Healthcare,6222.36,Advertising,Bank Transfer,Singapore,0,2023-01-13 04:00:00,Medium
+TXN460572,ENT2072,Finance,309.36,Software,Crypto Wallet,Germany,0,2023-01-13 05:00:00,Small
+TXN530849,ENT4453,Finance,4075.69,Software,UPI,Singapore,0,2023-01-13 06:00:00,Large
+TXN376967,ENT4492,Retail,1591.83,Advertising,Crypto Wallet,USA,0,2023-01-13 07:00:00,Large
+TXN501650,ENT7950,Retail,5441.87,Software,Bank Transfer,India,0,2023-01-13 08:00:00,Small
+TXN786594,ENT2702,Technology,8437.03,Office Supplies,Bank Transfer,USA,0,2023-01-13 09:00:00,Medium
+TXN609172,ENT4368,Manufacturing,5271.3,Travel,Bank Transfer,Germany,0,2023-01-13 10:00:00,Medium
+TXN699809,ENT9810,Finance,408.04,Office Supplies,Credit Card,Australia,0,2023-01-13 11:00:00,Large
+TXN738543,ENT8130,Retail,345.09,Travel,UPI,UK,0,2023-01-13 12:00:00,Small
+TXN596025,ENT2181,Manufacturing,6074.76,Software,Bank Transfer,India,0,2023-01-13 13:00:00,Small
+TXN139285,ENT3519,Healthcare,3313.42,Office Supplies,Cash,USA,0,2023-01-13 14:00:00,Small
+TXN280564,ENT1389,Manufacturing,5748.03,Consulting,Credit Card,Australia,0,2023-01-13 15:00:00,Large
+TXN388792,ENT8523,Finance,1678.19,Advertising,UPI,India,0,2023-01-13 16:00:00,Large
+TXN522548,ENT6434,Technology,7779.78,Travel,Cash,Singapore,0,2023-01-13 17:00:00,Medium
+TXN250840,ENT1620,Finance,8614.16,Travel,UPI,UK,1,2023-01-13 18:00:00,Small
+TXN748276,ENT2433,Retail,8897.79,Consulting,UPI,Australia,0,2023-01-13 19:00:00,Small
+TXN738221,ENT2200,Retail,3075.54,Consulting,Cash,India,0,2023-01-13 20:00:00,Small
+TXN813884,ENT1889,Manufacturing,6624.32,Advertising,Crypto Wallet,UK,0,2023-01-13 21:00:00,Small
+TXN827356,ENT3916,Finance,2826.47,Software,UPI,Australia,0,2023-01-13 22:00:00,Large
+TXN521233,ENT5127,Retail,7639.43,Office Supplies,Crypto Wallet,Singapore,0,2023-01-13 23:00:00,Medium
+TXN140666,ENT2154,Healthcare,1249.22,Office Supplies,UPI,Singapore,0,2023-01-14 00:00:00,Large
+TXN515018,ENT4729,Healthcare,7639.51,Office Supplies,Cash,USA,0,2023-01-14 01:00:00,Medium
+TXN447596,ENT5237,Technology,4425.3,Software,UPI,Germany,0,2023-01-14 02:00:00,Small
+TXN824056,ENT7678,Manufacturing,8562.72,Advertising,Bank Transfer,USA,0,2023-01-14 03:00:00,Small
+TXN349119,ENT7357,Retail,7402.36,Office Supplies,Bank Transfer,UK,0,2023-01-14 04:00:00,Small
+TXN151685,ENT8391,Technology,3796.37,Travel,UPI,USA,0,2023-01-14 05:00:00,Small
+TXN881975,ENT7626,Healthcare,9040.21,Travel,Cash,Australia,0,2023-01-14 06:00:00,Small
+TXN598302,ENT8094,Technology,2869.2,Travel,Cash,India,0,2023-01-14 07:00:00,Large
+TXN381631,ENT6183,Technology,9671.54,Consulting,Credit Card,Australia,0,2023-01-14 08:00:00,Medium
+TXN490532,ENT1276,Retail,7683.67,Consulting,Cash,USA,0,2023-01-14 09:00:00,Large
+TXN121215,ENT7381,Retail,9907.21,Software,Crypto Wallet,Germany,0,2023-01-14 10:00:00,Small
+TXN454278,ENT2938,Retail,586.35,Office Supplies,UPI,Australia,0,2023-01-14 11:00:00,Medium
+TXN957091,ENT9762,Manufacturing,2776.66,Consulting,Bank Transfer,Australia,0,2023-01-14 12:00:00,Medium
+TXN932204,ENT1096,Technology,7425.58,Travel,Cash,Australia,0,2023-01-14 13:00:00,Small
+TXN417776,ENT2036,Technology,9226.38,Consulting,Bank Transfer,Germany,0,2023-01-14 14:00:00,Medium
+TXN426053,ENT1745,Manufacturing,336.27,Travel,Credit Card,Australia,0,2023-01-14 15:00:00,Large
+TXN393964,ENT2189,Healthcare,50.09,Office Supplies,UPI,UK,0,2023-01-14 16:00:00,Large
+TXN983788,ENT6860,Finance,2599.61,Software,Cash,Singapore,0,2023-01-14 17:00:00,Large
+TXN615500,ENT9238,Healthcare,8535.15,Advertising,Bank Transfer,Germany,0,2023-01-14 18:00:00,Large
+TXN999924,ENT2738,Manufacturing,7683.17,Advertising,Cash,UK,0,2023-01-14 19:00:00,Medium
+TXN830000,ENT5748,Technology,3435.76,Travel,Credit Card,Germany,0,2023-01-14 20:00:00,Large
+TXN818119,ENT5937,Technology,70.01,Consulting,Bank Transfer,Germany,0,2023-01-14 21:00:00,Medium
+TXN202988,ENT2417,Retail,5569.32,Consulting,Bank Transfer,Singapore,0,2023-01-14 22:00:00,Small
+TXN339030,ENT5612,Retail,2417.66,Travel,UPI,India,0,2023-01-14 23:00:00,Large
+TXN240913,ENT8170,Technology,7468.81,Office Supplies,UPI,UK,0,2023-01-15 00:00:00,Small
+TXN415076,ENT7249,Technology,4491.18,Travel,Bank Transfer,Germany,0,2023-01-15 01:00:00,Large
+TXN879850,ENT7473,Retail,6802.09,Office Supplies,UPI,Germany,0,2023-01-15 02:00:00,Small
+TXN564635,ENT1504,Retail,8530.47,Software,Bank Transfer,USA,0,2023-01-15 03:00:00,Small
+TXN911630,ENT8765,Healthcare,5380.81,Software,Crypto Wallet,Australia,0,2023-01-15 04:00:00,Small
+TXN965938,ENT3561,Technology,3392.76,Travel,Cash,India,0,2023-01-15 05:00:00,Small
+TXN436454,ENT9740,Technology,7706.96,Software,Crypto Wallet,Singapore,0,2023-01-15 06:00:00,Small
+TXN382507,ENT4602,Manufacturing,2688.61,Consulting,Crypto Wallet,UK,0,2023-01-15 07:00:00,Medium
+TXN864201,ENT3234,Healthcare,8920.61,Office Supplies,Cash,Germany,0,2023-01-15 08:00:00,Medium
+TXN537017,ENT7406,Finance,760.71,Advertising,Bank Transfer,Australia,0,2023-01-15 09:00:00,Large
+TXN734366,ENT9941,Finance,8362.91,Advertising,Bank Transfer,UK,0,2023-01-15 10:00:00,Medium
+TXN776913,ENT5832,Finance,960.98,Software,UPI,Singapore,0,2023-01-15 11:00:00,Small
+TXN193624,ENT3360,Retail,608.56,Office Supplies,Credit Card,India,0,2023-01-15 12:00:00,Medium
+TXN297064,ENT5883,Finance,3664.41,Consulting,Bank Transfer,USA,0,2023-01-15 13:00:00,Medium
+TXN563173,ENT7113,Manufacturing,9567.67,Advertising,Cash,India,0,2023-01-15 14:00:00,Small
+TXN321659,ENT1182,Retail,9835.69,Consulting,Credit Card,USA,0,2023-01-15 15:00:00,Medium
+TXN963994,ENT3316,Retail,2060.6,Consulting,Cash,UK,0,2023-01-15 16:00:00,Small
+TXN526949,ENT3019,Finance,1528.94,Advertising,Cash,India,0,2023-01-15 17:00:00,Medium
+TXN876936,ENT1684,Retail,3561.89,Advertising,Cash,India,1,2023-01-15 18:00:00,Small
+TXN607993,ENT1082,Healthcare,3404.01,Software,Credit Card,India,0,2023-01-15 19:00:00,Large
+TXN896386,ENT7456,Healthcare,7607.95,Office Supplies,Crypto Wallet,Singapore,0,2023-01-15 20:00:00,Medium
+TXN641590,ENT9800,Finance,4467.79,Travel,Cash,UK,0,2023-01-15 21:00:00,Large
+TXN492073,ENT9970,Manufacturing,7809.84,Office Supplies,UPI,USA,0,2023-01-15 22:00:00,Small
+TXN960899,ENT2394,Retail,7499.7,Travel,Bank Transfer,India,0,2023-01-15 23:00:00,Small
+TXN158936,ENT5992,Technology,5804.19,Advertising,Bank Transfer,UK,0,2023-01-16 00:00:00,Large
+TXN640299,ENT4441,Finance,8343.45,Consulting,Bank Transfer,Australia,0,2023-01-16 01:00:00,Small
+TXN929937,ENT6633,Retail,1996.7,Office Supplies,Credit Card,Singapore,0,2023-01-16 02:00:00,Small
+TXN266694,ENT4469,Finance,1660.01,Consulting,UPI,Singapore,0,2023-01-16 03:00:00,Small
+TXN168804,ENT7760,Finance,7518.97,Office Supplies,UPI,Australia,0,2023-01-16 04:00:00,Small
+TXN426236,ENT9397,Manufacturing,2485.73,Office Supplies,UPI,UK,0,2023-01-16 05:00:00,Small
+TXN844037,ENT3333,Technology,77.8,Consulting,UPI,USA,0,2023-01-16 06:00:00,Small
+TXN631413,ENT3637,Retail,9124.0,Software,UPI,UK,0,2023-01-16 07:00:00,Small
+TXN522979,ENT4014,Finance,6248.22,Advertising,Crypto Wallet,UK,0,2023-01-16 08:00:00,Small
+TXN242239,ENT4617,Finance,4477.13,Software,UPI,Germany,0,2023-01-16 09:00:00,Large
+TXN918430,ENT5140,Retail,7271.08,Software,UPI,Singapore,0,2023-01-16 10:00:00,Medium
+TXN992647,ENT4183,Finance,3366.65,Office Supplies,Credit Card,USA,0,2023-01-16 11:00:00,Small
+TXN649753,ENT2877,Finance,9538.98,Advertising,Credit Card,Germany,0,2023-01-16 12:00:00,Large
+TXN696296,ENT3971,Finance,732.77,Office Supplies,UPI,Australia,0,2023-01-16 13:00:00,Small
+TXN130354,ENT1891,Healthcare,6427.43,Travel,Crypto Wallet,UK,0,2023-01-16 14:00:00,Medium
+TXN282176,ENT9992,Healthcare,7784.03,Office Supplies,UPI,Australia,0,2023-01-16 15:00:00,Small
+TXN302127,ENT8557,Technology,4717.8,Consulting,UPI,Singapore,0,2023-01-16 16:00:00,Large
+TXN973390,ENT2198,Manufacturing,7561.94,Office Supplies,UPI,Germany,0,2023-01-16 17:00:00,Large
+TXN310477,ENT5762,Retail,9272.76,Travel,Cash,Germany,0,2023-01-16 18:00:00,Medium
+TXN977633,ENT2103,Manufacturing,7452.74,Office Supplies,Crypto Wallet,USA,0,2023-01-16 19:00:00,Small
+TXN160426,ENT5107,Manufacturing,3128.2,Travel,Bank Transfer,UK,0,2023-01-16 20:00:00,Large
+TXN361609,ENT2608,Healthcare,5640.37,Advertising,UPI,USA,0,2023-01-16 21:00:00,Medium
+TXN134677,ENT4234,Technology,9120.46,Office Supplies,Bank Transfer,Germany,0,2023-01-16 22:00:00,Medium
+TXN578621,ENT8982,Manufacturing,4518.52,Travel,Crypto Wallet,Germany,0,2023-01-16 23:00:00,Small
+TXN153015,ENT6420,Manufacturing,6832.9,Advertising,UPI,USA,0,2023-01-17 00:00:00,Large
+TXN477880,ENT6851,Finance,4681.87,Consulting,Bank Transfer,Germany,0,2023-01-17 01:00:00,Small
+TXN838862,ENT3100,Retail,1257.37,Software,Bank Transfer,India,0,2023-01-17 02:00:00,Small
+TXN308781,ENT4842,Technology,633.05,Travel,Crypto Wallet,Singapore,0,2023-01-17 03:00:00,Small
+TXN387286,ENT2639,Retail,9525.13,Consulting,UPI,UK,0,2023-01-17 04:00:00,Large
+TXN486244,ENT5671,Healthcare,6144.79,Advertising,Cash,Singapore,0,2023-01-17 05:00:00,Medium
+TXN963508,ENT2143,Manufacturing,1082.96,Consulting,Crypto Wallet,UK,0,2023-01-17 06:00:00,Small
+TXN586768,ENT4170,Manufacturing,8581.51,Office Supplies,Cash,Germany,0,2023-01-17 07:00:00,Small
+TXN629663,ENT6206,Retail,5250.8,Software,UPI,USA,0,2023-01-17 08:00:00,Large
+TXN516224,ENT8960,Healthcare,7730.72,Travel,Bank Transfer,USA,0,2023-01-17 09:00:00,Small
+TXN766275,ENT8383,Finance,1311.22,Advertising,Crypto Wallet,Germany,0,2023-01-17 10:00:00,Medium
+TXN229890,ENT6379,Finance,9073.76,Software,Crypto Wallet,UK,0,2023-01-17 11:00:00,Small
+TXN814263,ENT6008,Manufacturing,5925.83,Advertising,Crypto Wallet,Germany,0,2023-01-17 12:00:00,Medium
+TXN132047,ENT3496,Manufacturing,7395.69,Consulting,Credit Card,UK,0,2023-01-17 13:00:00,Small
+TXN353690,ENT6971,Technology,362.23,Advertising,UPI,Germany,0,2023-01-17 14:00:00,Small
+TXN490559,ENT6182,Retail,3187.28,Advertising,Credit Card,Germany,0,2023-01-17 15:00:00,Small
+TXN612530,ENT8017,Manufacturing,2711.08,Consulting,Crypto Wallet,Germany,0,2023-01-17 16:00:00,Medium
+TXN722899,ENT3762,Healthcare,9498.47,Consulting,Crypto Wallet,USA,0,2023-01-17 17:00:00,Small
+TXN567773,ENT1079,Retail,1894.12,Software,Cash,UK,0,2023-01-17 18:00:00,Small
+TXN286209,ENT6131,Technology,7085.16,Travel,Credit Card,Australia,0,2023-01-17 19:00:00,Small
+TXN597635,ENT5033,Finance,475.4,Consulting,Bank Transfer,Germany,0,2023-01-17 20:00:00,Medium
+TXN715388,ENT4629,Technology,2016.96,Software,UPI,Singapore,0,2023-01-17 21:00:00,Small
+TXN678115,ENT8145,Retail,3419.04,Advertising,Bank Transfer,Singapore,0,2023-01-17 22:00:00,Large
+TXN466749,ENT5533,Finance,7955.33,Advertising,Bank Transfer,USA,1,2023-01-17 23:00:00,Medium
+TXN460971,ENT6889,Healthcare,7910.27,Office Supplies,UPI,India,0,2023-01-18 00:00:00,Large
+TXN271456,ENT3200,Finance,9528.39,Consulting,Crypto Wallet,Australia,0,2023-01-18 01:00:00,Small
+TXN978343,ENT6432,Finance,9171.84,Software,Cash,USA,0,2023-01-18 02:00:00,Medium
+TXN371224,ENT8863,Healthcare,861.07,Software,Crypto Wallet,India,0,2023-01-18 03:00:00,Medium
+TXN885342,ENT8583,Manufacturing,8307.18,Travel,Crypto Wallet,USA,0,2023-01-18 04:00:00,Small
+TXN971230,ENT8296,Manufacturing,4539.18,Software,Credit Card,Singapore,0,2023-01-18 05:00:00,Large
+TXN822312,ENT6877,Finance,8665.57,Consulting,Bank Transfer,Germany,0,2023-01-18 06:00:00,Medium
+TXN194782,ENT6004,Finance,938.4,Software,Bank Transfer,UK,0,2023-01-18 07:00:00,Medium
+TXN398916,ENT8978,Technology,8236.55,Office Supplies,Bank Transfer,Germany,0,2023-01-18 08:00:00,Medium
+TXN128783,ENT2783,Manufacturing,1638.44,Advertising,Cash,Singapore,0,2023-01-18 09:00:00,Medium
+TXN505343,ENT3879,Healthcare,3371.72,Advertising,Cash,UK,0,2023-01-18 10:00:00,Medium
+TXN152062,ENT2343,Finance,337.04,Software,Cash,India,0,2023-01-18 11:00:00,Small
+TXN270820,ENT5597,Finance,1281.09,Software,UPI,India,0,2023-01-18 12:00:00,Medium
+TXN995296,ENT3293,Technology,4484.97,Software,Cash,Singapore,0,2023-01-18 13:00:00,Large
+TXN700056,ENT9824,Technology,8192.47,Software,Credit Card,UK,0,2023-01-18 14:00:00,Medium
+TXN917711,ENT4218,Technology,7748.01,Office Supplies,Credit Card,Germany,0,2023-01-18 15:00:00,Small
+TXN324729,ENT5312,Retail,2391.21,Consulting,Crypto Wallet,Singapore,0,2023-01-18 16:00:00,Small
+TXN998746,ENT2252,Healthcare,1559.32,Office Supplies,Crypto Wallet,India,0,2023-01-18 17:00:00,Large
+TXN332103,ENT2235,Retail,3923.17,Office Supplies,Crypto Wallet,Singapore,0,2023-01-18 18:00:00,Medium
+TXN778827,ENT1305,Finance,8838.52,Office Supplies,Crypto Wallet,Germany,0,2023-01-18 19:00:00,Large
+TXN336047,ENT9309,Technology,959.68,Advertising,Credit Card,USA,0,2023-01-18 20:00:00,Large
+TXN810614,ENT1511,Technology,5451.99,Office Supplies,Crypto Wallet,Australia,0,2023-01-18 21:00:00,Large
+TXN316773,ENT7637,Technology,933.63,Software,Credit Card,Australia,1,2023-01-18 22:00:00,Large
+TXN382154,ENT4485,Manufacturing,4728.61,Office Supplies,Cash,Australia,1,2023-01-18 23:00:00,Medium
+TXN783238,ENT1600,Healthcare,1311.58,Software,Cash,USA,0,2023-01-19 00:00:00,Small
+TXN529399,ENT5269,Retail,849.35,Consulting,UPI,Germany,0,2023-01-19 01:00:00,Small
+TXN638214,ENT9904,Healthcare,1948.95,Advertising,Crypto Wallet,UK,0,2023-01-19 02:00:00,Medium
+TXN121026,ENT9842,Technology,2589.8,Consulting,Cash,Singapore,0,2023-01-19 03:00:00,Large
+TXN918207,ENT8734,Finance,2798.84,Consulting,Cash,Germany,0,2023-01-19 04:00:00,Medium
+TXN904858,ENT3435,Manufacturing,6470.42,Advertising,Bank Transfer,USA,0,2023-01-19 05:00:00,Large
+TXN815338,ENT6993,Healthcare,597.07,Software,Bank Transfer,India,0,2023-01-19 06:00:00,Large
+TXN109330,ENT7430,Finance,854.05,Software,Credit Card,Australia,0,2023-01-19 07:00:00,Medium
+TXN597126,ENT4658,Technology,1927.63,Software,UPI,Australia,0,2023-01-19 08:00:00,Medium
+TXN238741,ENT5767,Technology,8727.03,Advertising,Bank Transfer,Germany,0,2023-01-19 09:00:00,Large
+TXN778818,ENT3193,Technology,6304.62,Office Supplies,UPI,Australia,0,2023-01-19 10:00:00,Large
+TXN281614,ENT8613,Technology,7317.18,Travel,Cash,Australia,0,2023-01-19 11:00:00,Large
+TXN730343,ENT9210,Manufacturing,3735.1,Office Supplies,Credit Card,Germany,0,2023-01-19 12:00:00,Large
+TXN939767,ENT9362,Manufacturing,2171.54,Office Supplies,UPI,Germany,0,2023-01-19 13:00:00,Medium
+TXN108874,ENT2483,Healthcare,427.72,Consulting,Bank Transfer,USA,0,2023-01-19 14:00:00,Small
+TXN334639,ENT7500,Technology,4910.93,Travel,Cash,USA,0,2023-01-19 15:00:00,Small
+TXN364650,ENT6961,Manufacturing,5764.1,Software,Crypto Wallet,Australia,0,2023-01-19 16:00:00,Large
+TXN737894,ENT9227,Finance,8975.18,Office Supplies,Cash,Germany,0,2023-01-19 17:00:00,Small
+TXN944193,ENT1173,Manufacturing,8826.83,Advertising,Bank Transfer,Germany,0,2023-01-19 18:00:00,Small
+TXN420297,ENT4913,Manufacturing,4275.62,Office Supplies,Bank Transfer,Australia,0,2023-01-19 19:00:00,Small
+TXN847362,ENT3717,Healthcare,4264.6,Software,Crypto Wallet,UK,0,2023-01-19 20:00:00,Small
+TXN843826,ENT9423,Manufacturing,1653.17,Office Supplies,Cash,India,0,2023-01-19 21:00:00,Small
+TXN773962,ENT3299,Finance,2611.62,Consulting,UPI,Singapore,0,2023-01-19 22:00:00,Small
+TXN388755,ENT8310,Technology,9260.35,Consulting,UPI,Singapore,0,2023-01-19 23:00:00,Large
+TXN544393,ENT3608,Retail,1453.31,Office Supplies,Cash,Australia,0,2023-01-20 00:00:00,Large
+TXN494763,ENT3935,Healthcare,9688.56,Consulting,UPI,Singapore,0,2023-01-20 01:00:00,Large
+TXN992952,ENT3395,Finance,5072.15,Advertising,Cash,USA,0,2023-01-20 02:00:00,Medium
+TXN465648,ENT8921,Healthcare,4593.24,Travel,Cash,USA,0,2023-01-20 03:00:00,Small
+TXN581294,ENT6878,Technology,1787.65,Office Supplies,Bank Transfer,UK,0,2023-01-20 04:00:00,Small
+TXN364239,ENT1662,Manufacturing,6632.34,Advertising,Credit Card,Australia,0,2023-01-20 05:00:00,Medium
+TXN328808,ENT4585,Manufacturing,4625.46,Advertising,Bank Transfer,USA,0,2023-01-20 06:00:00,Small
+TXN589368,ENT8989,Finance,3738.1,Advertising,UPI,Australia,0,2023-01-20 07:00:00,Large
+TXN416822,ENT4796,Technology,2681.94,Software,Credit Card,Australia,0,2023-01-20 08:00:00,Large
+TXN810091,ENT2029,Retail,711.54,Office Supplies,Cash,Germany,0,2023-01-20 09:00:00,Medium
+TXN645928,ENT5331,Retail,5217.31,Office Supplies,UPI,India,0,2023-01-20 10:00:00,Large
+TXN964352,ENT7052,Manufacturing,3163.44,Office Supplies,Crypto Wallet,India,0,2023-01-20 11:00:00,Medium
+TXN753898,ENT4834,Technology,7093.26,Travel,UPI,Australia,0,2023-01-20 12:00:00,Large
+TXN516444,ENT1701,Technology,7249.05,Advertising,Credit Card,India,0,2023-01-20 13:00:00,Small
+TXN712879,ENT4387,Finance,3354.46,Office Supplies,Credit Card,India,0,2023-01-20 14:00:00,Large
+TXN207282,ENT9485,Retail,6707.75,Consulting,Cash,Singapore,0,2023-01-20 15:00:00,Medium
+TXN107704,ENT6918,Finance,2623.82,Software,Crypto Wallet,Singapore,0,2023-01-20 16:00:00,Small
+TXN636361,ENT7358,Healthcare,7285.38,Travel,Cash,Germany,1,2023-01-20 17:00:00,Medium
+TXN794530,ENT8695,Technology,209.97,Software,Crypto Wallet,UK,0,2023-01-20 18:00:00,Small
+TXN984247,ENT8448,Retail,1558.51,Advertising,Crypto Wallet,USA,0,2023-01-20 19:00:00,Small
+TXN980152,ENT1760,Finance,2487.84,Consulting,Cash,USA,0,2023-01-20 20:00:00,Large
+TXN492408,ENT1653,Manufacturing,7740.71,Advertising,UPI,Singapore,0,2023-01-20 21:00:00,Large
+TXN688730,ENT6309,Healthcare,710.44,Office Supplies,Bank Transfer,Australia,1,2023-01-20 22:00:00,Small
+TXN778787,ENT2691,Finance,1921.17,Software,Crypto Wallet,India,0,2023-01-20 23:00:00,Large
+TXN722615,ENT9542,Manufacturing,3618.31,Consulting,Credit Card,Germany,0,2023-01-21 00:00:00,Large
+TXN738635,ENT5480,Retail,141.29,Software,Cash,UK,0,2023-01-21 01:00:00,Medium
+TXN396408,ENT5314,Retail,7633.1,Travel,UPI,Singapore,0,2023-01-21 02:00:00,Large
+TXN412974,ENT9918,Healthcare,5623.05,Consulting,Crypto Wallet,Australia,0,2023-01-21 03:00:00,Small
+TXN817659,ENT3848,Manufacturing,9011.76,Travel,UPI,Germany,0,2023-01-21 04:00:00,Large
+TXN213355,ENT7171,Technology,358.76,Consulting,Cash,Australia,0,2023-01-21 05:00:00,Small
+TXN605139,ENT7201,Retail,2750.34,Office Supplies,Credit Card,Germany,0,2023-01-21 06:00:00,Small
+TXN166938,ENT6985,Technology,7325.95,Software,Crypto Wallet,Singapore,0,2023-01-21 07:00:00,Medium
+TXN452618,ENT2275,Technology,6767.74,Software,Crypto Wallet,Germany,0,2023-01-21 08:00:00,Small
+TXN389913,ENT9465,Finance,2468.42,Advertising,UPI,India,0,2023-01-21 09:00:00,Small
+TXN771712,ENT5121,Finance,5977.09,Consulting,Cash,Germany,0,2023-01-21 10:00:00,Medium
+TXN440930,ENT7165,Retail,7947.89,Consulting,Bank Transfer,UK,1,2023-01-21 11:00:00,Small
+TXN390334,ENT4651,Technology,382.14,Travel,Crypto Wallet,Germany,0,2023-01-21 12:00:00,Medium
+TXN373832,ENT9460,Finance,7190.4,Consulting,Credit Card,USA,0,2023-01-21 13:00:00,Small
+TXN787991,ENT7649,Manufacturing,2558.37,Software,Crypto Wallet,Germany,0,2023-01-21 14:00:00,Large
+TXN845635,ENT6781,Manufacturing,9481.12,Consulting,Crypto Wallet,Australia,0,2023-01-21 15:00:00,Medium
+TXN783112,ENT6653,Manufacturing,5405.29,Advertising,Bank Transfer,Singapore,0,2023-01-21 16:00:00,Medium
+TXN413305,ENT8976,Manufacturing,382.19,Advertising,Bank Transfer,USA,0,2023-01-21 17:00:00,Small
+TXN297509,ENT8898,Technology,4064.13,Software,Cash,Singapore,0,2023-01-21 18:00:00,Medium
+TXN257212,ENT1108,Manufacturing,9664.8,Software,Crypto Wallet,Australia,0,2023-01-21 19:00:00,Small
+TXN642421,ENT9222,Technology,7317.21,Software,Crypto Wallet,UK,0,2023-01-21 20:00:00,Medium
+TXN902658,ENT3276,Retail,3039.77,Consulting,UPI,India,0,2023-01-21 21:00:00,Medium
+TXN351974,ENT8207,Retail,5773.91,Consulting,UPI,UK,0,2023-01-21 22:00:00,Large
+TXN159532,ENT3713,Manufacturing,6011.06,Office Supplies,Credit Card,USA,0,2023-01-21 23:00:00,Small
+TXN944554,ENT4768,Manufacturing,282.31,Travel,Credit Card,Australia,0,2023-01-22 00:00:00,Large
+TXN998960,ENT2263,Manufacturing,1829.39,Consulting,UPI,Australia,0,2023-01-22 01:00:00,Medium
+TXN941339,ENT9430,Retail,5540.18,Office Supplies,Credit Card,India,0,2023-01-22 02:00:00,Small
+TXN949376,ENT5600,Finance,4057.39,Office Supplies,Crypto Wallet,Germany,0,2023-01-22 03:00:00,Large
+TXN729180,ENT4465,Retail,1940.88,Advertising,Bank Transfer,USA,0,2023-01-22 04:00:00,Medium
+TXN523727,ENT3461,Manufacturing,7738.05,Consulting,Crypto Wallet,India,0,2023-01-22 05:00:00,Large
+TXN792616,ENT4062,Finance,4915.5,Office Supplies,UPI,Singapore,0,2023-01-22 06:00:00,Medium
+TXN435109,ENT3578,Finance,3134.23,Advertising,Cash,India,0,2023-01-22 07:00:00,Medium
+TXN813824,ENT6934,Healthcare,1658.69,Travel,Cash,Singapore,0,2023-01-22 08:00:00,Small
+TXN246726,ENT2938,Technology,6131.08,Advertising,UPI,Singapore,0,2023-01-22 09:00:00,Small
+TXN856320,ENT4773,Manufacturing,6679.3,Travel,Crypto Wallet,Australia,0,2023-01-22 10:00:00,Small
+TXN126691,ENT7793,Technology,6712.49,Software,Credit Card,India,0,2023-01-22 11:00:00,Medium
+TXN787237,ENT6410,Healthcare,2241.86,Software,Credit Card,Australia,0,2023-01-22 12:00:00,Large
+TXN621533,ENT2856,Technology,5973.62,Advertising,Cash,Australia,0,2023-01-22 13:00:00,Small
+TXN409963,ENT8889,Manufacturing,9058.79,Software,UPI,UK,0,2023-01-22 14:00:00,Small
+TXN372028,ENT8844,Healthcare,3564.22,Consulting,UPI,UK,0,2023-01-22 15:00:00,Small
+TXN538897,ENT8848,Technology,2147.13,Advertising,Bank Transfer,Australia,1,2023-01-22 16:00:00,Small
+TXN524252,ENT4452,Retail,7732.89,Office Supplies,Cash,Australia,0,2023-01-22 17:00:00,Medium
+TXN507135,ENT3641,Finance,1809.99,Consulting,UPI,Singapore,0,2023-01-22 18:00:00,Large
+TXN872519,ENT7732,Healthcare,2574.8,Advertising,Bank Transfer,Australia,0,2023-01-22 19:00:00,Medium
+TXN137034,ENT1367,Retail,1051.41,Travel,Credit Card,USA,0,2023-01-22 20:00:00,Medium
+TXN711344,ENT4992,Manufacturing,2715.35,Software,Cash,India,0,2023-01-22 21:00:00,Medium
+TXN842464,ENT1706,Finance,4132.83,Software,Cash,USA,0,2023-01-22 22:00:00,Small
+TXN699829,ENT3095,Healthcare,688.37,Software,UPI,UK,0,2023-01-22 23:00:00,Large
+TXN955653,ENT3639,Finance,8723.5,Advertising,UPI,USA,1,2023-01-23 00:00:00,Medium
+TXN299140,ENT3207,Healthcare,5161.06,Consulting,Crypto Wallet,Germany,0,2023-01-23 01:00:00,Medium
+TXN459836,ENT9399,Healthcare,5901.63,Travel,Credit Card,Germany,0,2023-01-23 02:00:00,Medium
+TXN861842,ENT1642,Technology,3744.29,Software,Credit Card,UK,0,2023-01-23 03:00:00,Small
+TXN848021,ENT3406,Finance,6714.86,Consulting,Bank Transfer,USA,0,2023-01-23 04:00:00,Small
+TXN333164,ENT1916,Finance,4346.23,Office Supplies,Bank Transfer,India,0,2023-01-23 05:00:00,Medium
+TXN819656,ENT3725,Retail,7625.07,Office Supplies,Crypto Wallet,UK,1,2023-01-23 06:00:00,Small
+TXN660605,ENT5231,Manufacturing,8222.95,Travel,Credit Card,Germany,0,2023-01-23 07:00:00,Large
+TXN769320,ENT3949,Retail,6734.9,Software,Bank Transfer,UK,0,2023-01-23 08:00:00,Small
+TXN923024,ENT9464,Technology,4938.79,Office Supplies,Credit Card,USA,0,2023-01-23 09:00:00,Medium
+TXN598844,ENT7642,Healthcare,7833.58,Consulting,Credit Card,USA,0,2023-01-23 10:00:00,Large
+TXN804505,ENT1305,Technology,4968.14,Consulting,Bank Transfer,USA,0,2023-01-23 11:00:00,Small
+TXN475911,ENT5644,Technology,1159.52,Office Supplies,UPI,Singapore,0,2023-01-23 12:00:00,Medium
+TXN631958,ENT2404,Retail,1207.59,Software,UPI,USA,0,2023-01-23 13:00:00,Large
+TXN414777,ENT4548,Healthcare,9488.4,Travel,Bank Transfer,Australia,0,2023-01-23 14:00:00,Large
+TXN986486,ENT8359,Manufacturing,2174.95,Software,Crypto Wallet,Germany,0,2023-01-23 15:00:00,Large
+TXN278243,ENT8723,Technology,8168.45,Advertising,Cash,Germany,0,2023-01-23 16:00:00,Small
+TXN981473,ENT8891,Manufacturing,2504.72,Office Supplies,Credit Card,Singapore,0,2023-01-23 17:00:00,Large
+TXN789558,ENT3794,Healthcare,4336.26,Advertising,Cash,Germany,0,2023-01-23 18:00:00,Small
+TXN685365,ENT4594,Healthcare,6566.73,Office Supplies,Bank Transfer,Germany,0,2023-01-23 19:00:00,Medium
+TXN289934,ENT7730,Retail,1630.73,Travel,Credit Card,UK,0,2023-01-23 20:00:00,Small
+TXN408054,ENT3338,Finance,7385.6,Software,Cash,USA,0,2023-01-23 21:00:00,Small
+TXN202344,ENT3979,Retail,6914.63,Software,UPI,Australia,0,2023-01-23 22:00:00,Medium
+TXN593649,ENT9369,Manufacturing,5453.67,Office Supplies,Crypto Wallet,Australia,0,2023-01-23 23:00:00,Small
+TXN234159,ENT5333,Retail,5680.6,Consulting,Cash,UK,0,2023-01-24 00:00:00,Small
+TXN876909,ENT3747,Healthcare,1102.43,Advertising,Crypto Wallet,Australia,0,2023-01-24 01:00:00,Medium
+TXN371216,ENT6614,Technology,4387.69,Software,UPI,UK,0,2023-01-24 02:00:00,Large
+TXN860413,ENT8429,Finance,911.39,Software,Cash,Australia,0,2023-01-24 03:00:00,Medium
+TXN947609,ENT2127,Healthcare,3113.24,Office Supplies,Bank Transfer,Germany,0,2023-01-24 04:00:00,Large
+TXN686187,ENT4765,Technology,9008.11,Consulting,Credit Card,India,0,2023-01-24 05:00:00,Small
+TXN899977,ENT7196,Manufacturing,5766.61,Advertising,UPI,USA,0,2023-01-24 06:00:00,Medium
+TXN291961,ENT7315,Manufacturing,7439.9,Consulting,Crypto Wallet,India,0,2023-01-24 07:00:00,Large
+TXN812730,ENT3166,Manufacturing,5760.16,Consulting,Crypto Wallet,Germany,0,2023-01-24 08:00:00,Small
+TXN451936,ENT2778,Retail,1982.66,Office Supplies,UPI,Singapore,0,2023-01-24 09:00:00,Small
+TXN786224,ENT1271,Manufacturing,5968.34,Consulting,Bank Transfer,UK,0,2023-01-24 10:00:00,Small
+TXN193637,ENT4315,Manufacturing,7566.11,Advertising,Bank Transfer,Australia,0,2023-01-24 11:00:00,Large
+TXN333049,ENT9564,Retail,1427.13,Travel,Crypto Wallet,Australia,1,2023-01-24 12:00:00,Large
+TXN472541,ENT9263,Technology,8178.22,Travel,UPI,Germany,0,2023-01-24 13:00:00,Large
+TXN334176,ENT7877,Healthcare,5576.15,Advertising,UPI,Australia,1,2023-01-24 14:00:00,Small
+TXN880360,ENT3450,Finance,92.54,Office Supplies,Credit Card,Germany,0,2023-01-24 15:00:00,Large
+TXN422002,ENT2577,Manufacturing,5221.8,Software,Crypto Wallet,India,0,2023-01-24 16:00:00,Medium
+TXN540897,ENT3906,Manufacturing,3986.93,Office Supplies,Bank Transfer,Singapore,0,2023-01-24 17:00:00,Large
+TXN926372,ENT8796,Manufacturing,2999.64,Advertising,Cash,UK,0,2023-01-24 18:00:00,Large
+TXN447411,ENT1639,Retail,7724.01,Consulting,Bank Transfer,Australia,0,2023-01-24 19:00:00,Small
+TXN489737,ENT9706,Retail,9000.02,Travel,Bank Transfer,Singapore,0,2023-01-24 20:00:00,Medium
+TXN373216,ENT9246,Retail,7638.4,Consulting,Cash,Singapore,0,2023-01-24 21:00:00,Medium
+TXN714015,ENT2925,Finance,8475.39,Office Supplies,Crypto Wallet,Singapore,0,2023-01-24 22:00:00,Medium
+TXN408334,ENT2526,Healthcare,9092.37,Advertising,Credit Card,USA,0,2023-01-24 23:00:00,Large
+TXN586288,ENT8901,Manufacturing,9130.66,Travel,Bank Transfer,Singapore,0,2023-01-25 00:00:00,Small
+TXN992562,ENT3135,Technology,1190.65,Advertising,Bank Transfer,Germany,0,2023-01-25 01:00:00,Large
+TXN223502,ENT9835,Manufacturing,4591.04,Travel,Crypto Wallet,USA,1,2023-01-25 02:00:00,Small
+TXN593393,ENT1019,Manufacturing,52.85,Travel,Crypto Wallet,USA,0,2023-01-25 03:00:00,Medium
+TXN156284,ENT8069,Manufacturing,5089.3,Travel,UPI,Singapore,0,2023-01-25 04:00:00,Large
+TXN765213,ENT9553,Manufacturing,9246.23,Office Supplies,Crypto Wallet,Australia,0,2023-01-25 05:00:00,Small
+TXN711922,ENT7892,Healthcare,2031.07,Advertising,Crypto Wallet,Australia,0,2023-01-25 06:00:00,Large
+TXN708502,ENT7068,Technology,6415.88,Software,Bank Transfer,Australia,0,2023-01-25 07:00:00,Small
+TXN750803,ENT1711,Retail,6461.57,Software,Credit Card,Australia,0,2023-01-25 08:00:00,Medium
+TXN174675,ENT9680,Technology,1645.52,Software,Bank Transfer,Germany,0,2023-01-25 09:00:00,Large
+TXN595158,ENT8028,Manufacturing,2423.35,Advertising,Crypto Wallet,Australia,0,2023-01-25 10:00:00,Medium
+TXN303993,ENT4759,Technology,4647.12,Consulting,UPI,UK,0,2023-01-25 11:00:00,Large
+TXN624788,ENT8899,Manufacturing,1922.68,Advertising,Credit Card,Singapore,0,2023-01-25 12:00:00,Large
+TXN225636,ENT7246,Technology,5870.69,Travel,UPI,USA,0,2023-01-25 13:00:00,Small
+TXN813763,ENT6742,Finance,4871.19,Consulting,Cash,UK,0,2023-01-25 14:00:00,Small
+TXN500209,ENT2600,Technology,5216.02,Travel,UPI,Australia,0,2023-01-25 15:00:00,Small
+TXN655575,ENT7971,Retail,1387.95,Travel,UPI,UK,0,2023-01-25 16:00:00,Medium
+TXN412848,ENT3193,Retail,5196.66,Advertising,Crypto Wallet,USA,0,2023-01-25 17:00:00,Medium
+TXN533174,ENT5170,Technology,542.31,Software,Crypto Wallet,Australia,0,2023-01-25 18:00:00,Large
+TXN156688,ENT8817,Technology,8821.28,Consulting,Crypto Wallet,UK,0,2023-01-25 19:00:00,Small
+TXN995735,ENT4809,Healthcare,3465.33,Office Supplies,Crypto Wallet,Germany,0,2023-01-25 20:00:00,Medium
+TXN258102,ENT2373,Technology,8570.56,Software,Crypto Wallet,Germany,0,2023-01-25 21:00:00,Large
+TXN244037,ENT5641,Retail,7031.48,Office Supplies,UPI,Singapore,1,2023-01-25 22:00:00,Medium
+TXN310026,ENT9908,Finance,7673.42,Advertising,Cash,Singapore,1,2023-01-25 23:00:00,Large
+TXN459315,ENT7695,Retail,3179.72,Consulting,Crypto Wallet,UK,0,2023-01-26 00:00:00,Small
+TXN529068,ENT5223,Healthcare,2316.05,Advertising,Cash,USA,0,2023-01-26 01:00:00,Large
+TXN697062,ENT4096,Technology,4097.07,Office Supplies,Cash,Germany,0,2023-01-26 02:00:00,Large
+TXN579798,ENT1089,Finance,291.05,Travel,Bank Transfer,India,0,2023-01-26 03:00:00,Small
+TXN250181,ENT1116,Retail,9191.62,Advertising,Bank Transfer,Singapore,1,2023-01-26 04:00:00,Small
+TXN431752,ENT9561,Finance,3900.79,Consulting,Credit Card,Germany,0,2023-01-26 05:00:00,Large
+TXN850432,ENT2930,Manufacturing,9886.14,Advertising,Bank Transfer,Australia,0,2023-01-26 06:00:00,Medium
+TXN289117,ENT9515,Retail,7626.42,Software,Crypto Wallet,UK,0,2023-01-26 07:00:00,Small
+TXN916779,ENT1117,Manufacturing,851.12,Advertising,Cash,Germany,0,2023-01-26 08:00:00,Large
+TXN184736,ENT7144,Finance,6618.87,Office Supplies,Credit Card,Germany,1,2023-01-26 09:00:00,Small
+TXN611265,ENT4365,Technology,2744.85,Advertising,Bank Transfer,UK,0,2023-01-26 10:00:00,Small
+TXN448787,ENT6175,Technology,2475.0,Consulting,UPI,Singapore,0,2023-01-26 11:00:00,Medium
+TXN761685,ENT7698,Technology,2602.8,Advertising,Credit Card,Singapore,0,2023-01-26 12:00:00,Small
+TXN285413,ENT6935,Manufacturing,9164.95,Advertising,Crypto Wallet,India,0,2023-01-26 13:00:00,Large
+TXN428638,ENT2746,Technology,5024.8,Consulting,Cash,India,0,2023-01-26 14:00:00,Large
+TXN765320,ENT3535,Healthcare,6711.24,Advertising,Crypto Wallet,Singapore,1,2023-01-26 15:00:00,Small
+TXN160831,ENT7980,Retail,2845.43,Consulting,Crypto Wallet,Singapore,0,2023-01-26 16:00:00,Small
+TXN104942,ENT5155,Retail,5253.4,Office Supplies,UPI,Singapore,0,2023-01-26 17:00:00,Medium
+TXN574012,ENT5281,Finance,3533.5,Consulting,UPI,Singapore,0,2023-01-26 18:00:00,Medium
+TXN386814,ENT9783,Manufacturing,3245.33,Office Supplies,Cash,Germany,0,2023-01-26 19:00:00,Medium
+TXN319553,ENT7939,Retail,2507.34,Office Supplies,Bank Transfer,India,0,2023-01-26 20:00:00,Large
+TXN898169,ENT6990,Manufacturing,4119.62,Consulting,Crypto Wallet,UK,0,2023-01-26 21:00:00,Medium
+TXN911117,ENT5514,Finance,6617.3,Advertising,Bank Transfer,USA,0,2023-01-26 22:00:00,Large
+TXN276795,ENT7511,Technology,2259.34,Software,Cash,UK,0,2023-01-26 23:00:00,Medium
+TXN704272,ENT4337,Finance,9656.17,Consulting,Crypto Wallet,Australia,0,2023-01-27 00:00:00,Large
+TXN901619,ENT7770,Healthcare,1289.89,Advertising,Bank Transfer,USA,0,2023-01-27 01:00:00,Small
+TXN266131,ENT8904,Technology,4828.06,Office Supplies,Crypto Wallet,Germany,0,2023-01-27 02:00:00,Large
+TXN613358,ENT3928,Technology,896.03,Travel,UPI,Australia,0,2023-01-27 03:00:00,Small
+TXN923353,ENT7065,Technology,275.52,Software,UPI,India,0,2023-01-27 04:00:00,Large
+TXN900660,ENT8925,Finance,9230.64,Advertising,Credit Card,USA,0,2023-01-27 05:00:00,Large
+TXN917629,ENT5157,Healthcare,8113.33,Software,Cash,Singapore,0,2023-01-27 06:00:00,Small
+TXN192318,ENT6024,Manufacturing,6956.85,Travel,Bank Transfer,Australia,0,2023-01-27 07:00:00,Large
+TXN235691,ENT6641,Finance,8658.65,Travel,Crypto Wallet,Germany,0,2023-01-27 08:00:00,Large
+TXN744328,ENT7522,Retail,8038.34,Travel,Credit Card,USA,0,2023-01-27 09:00:00,Medium
+TXN554779,ENT3262,Retail,6490.02,Consulting,Cash,Singapore,0,2023-01-27 10:00:00,Small
+TXN764259,ENT2951,Finance,8481.06,Software,Cash,Australia,0,2023-01-27 11:00:00,Small
+TXN550268,ENT4764,Manufacturing,3938.47,Consulting,Cash,Germany,0,2023-01-27 12:00:00,Medium
+TXN522988,ENT8317,Retail,5549.88,Travel,Bank Transfer,Australia,0,2023-01-27 13:00:00,Medium
+TXN549865,ENT3650,Manufacturing,7774.29,Advertising,UPI,USA,0,2023-01-27 14:00:00,Small
+TXN600590,ENT2642,Technology,893.74,Travel,Credit Card,Singapore,0,2023-01-27 15:00:00,Small
+TXN501936,ENT4513,Finance,8593.52,Consulting,Bank Transfer,India,0,2023-01-27 16:00:00,Small
+TXN104895,ENT9328,Technology,1610.46,Travel,Crypto Wallet,Germany,0,2023-01-27 17:00:00,Medium
+TXN139557,ENT7562,Retail,8652.19,Travel,Bank Transfer,USA,0,2023-01-27 18:00:00,Medium
+TXN659711,ENT6544,Manufacturing,3147.76,Consulting,Crypto Wallet,Singapore,0,2023-01-27 19:00:00,Large
+TXN309100,ENT1852,Technology,3301.49,Consulting,Crypto Wallet,India,0,2023-01-27 20:00:00,Medium
+TXN866151,ENT3633,Retail,785.79,Advertising,Cash,Australia,0,2023-01-27 21:00:00,Large
+TXN491225,ENT7375,Healthcare,8864.7,Consulting,Bank Transfer,Singapore,0,2023-01-27 22:00:00,Large
+TXN114760,ENT1086,Technology,1786.38,Advertising,UPI,India,0,2023-01-27 23:00:00,Medium
+TXN437864,ENT2492,Healthcare,6319.0,Office Supplies,Crypto Wallet,USA,0,2023-01-28 00:00:00,Medium
+TXN893612,ENT3381,Healthcare,6457.48,Office Supplies,Cash,Singapore,0,2023-01-28 01:00:00,Medium
+TXN973703,ENT8727,Retail,2847.46,Consulting,UPI,Singapore,0,2023-01-28 02:00:00,Medium
+TXN656829,ENT8133,Finance,9857.33,Travel,Bank Transfer,UK,1,2023-01-28 03:00:00,Small
+TXN299834,ENT2444,Manufacturing,688.45,Software,UPI,Germany,0,2023-01-28 04:00:00,Medium
+TXN118786,ENT2049,Retail,6098.33,Travel,Bank Transfer,Singapore,0,2023-01-28 05:00:00,Large
+TXN809621,ENT5310,Technology,4821.46,Consulting,Crypto Wallet,India,0,2023-01-28 06:00:00,Large
+TXN104324,ENT4633,Manufacturing,2492.57,Advertising,Credit Card,Germany,0,2023-01-28 07:00:00,Small
+TXN757128,ENT7075,Finance,1677.34,Travel,Credit Card,USA,0,2023-01-28 08:00:00,Small
+TXN869238,ENT2311,Retail,7383.99,Office Supplies,Crypto Wallet,Germany,0,2023-01-28 09:00:00,Medium
+TXN360909,ENT1618,Finance,9167.33,Consulting,UPI,UK,0,2023-01-28 10:00:00,Small
+TXN337256,ENT7296,Technology,1120.09,Travel,Bank Transfer,USA,0,2023-01-28 11:00:00,Medium
+TXN827213,ENT7564,Retail,1980.1,Travel,Credit Card,Singapore,0,2023-01-28 12:00:00,Medium
+TXN461076,ENT9536,Technology,9863.38,Advertising,Bank Transfer,Australia,0,2023-01-28 13:00:00,Small
+TXN427252,ENT5693,Manufacturing,199.48,Advertising,Crypto Wallet,USA,0,2023-01-28 14:00:00,Small
+TXN235193,ENT1941,Manufacturing,5107.11,Advertising,UPI,USA,0,2023-01-28 15:00:00,Large
+TXN207697,ENT3871,Finance,5185.32,Software,Bank Transfer,UK,0,2023-01-28 16:00:00,Small
+TXN502181,ENT9099,Finance,2668.46,Consulting,UPI,India,0,2023-01-28 17:00:00,Small
+TXN627786,ENT8192,Manufacturing,6647.14,Consulting,Credit Card,USA,1,2023-01-28 18:00:00,Small
+TXN717265,ENT1175,Healthcare,9452.16,Office Supplies,Bank Transfer,India,0,2023-01-28 19:00:00,Large
+TXN420984,ENT4304,Manufacturing,4529.63,Office Supplies,Cash,Germany,1,2023-01-28 20:00:00,Medium
+TXN275133,ENT9489,Retail,7506.72,Consulting,Credit Card,Australia,0,2023-01-28 21:00:00,Large
+TXN168458,ENT5685,Technology,6478.4,Travel,UPI,UK,0,2023-01-28 22:00:00,Small
+TXN963862,ENT4190,Manufacturing,4755.77,Consulting,Crypto Wallet,Singapore,0,2023-01-28 23:00:00,Small
+TXN147939,ENT1550,Manufacturing,545.63,Software,Cash,USA,0,2023-01-29 00:00:00,Small
+TXN412687,ENT9364,Technology,7430.41,Office Supplies,Bank Transfer,Australia,0,2023-01-29 01:00:00,Medium
+TXN404955,ENT9451,Technology,3664.35,Office Supplies,Credit Card,Australia,0,2023-01-29 02:00:00,Large
+TXN578073,ENT4795,Retail,2283.72,Office Supplies,Bank Transfer,India,0,2023-01-29 03:00:00,Large
+TXN863187,ENT3776,Technology,9485.27,Consulting,Bank Transfer,USA,0,2023-01-29 04:00:00,Medium
+TXN645561,ENT1590,Finance,7746.35,Office Supplies,Cash,Australia,0,2023-01-29 05:00:00,Large
+TXN725339,ENT6893,Manufacturing,9624.57,Office Supplies,Cash,UK,0,2023-01-29 06:00:00,Medium
+TXN649577,ENT4919,Technology,2599.36,Consulting,Cash,Singapore,0,2023-01-29 07:00:00,Medium
+TXN454245,ENT1004,Retail,8366.14,Travel,Cash,Germany,0,2023-01-29 08:00:00,Large
+TXN554730,ENT3579,Technology,6096.83,Office Supplies,Crypto Wallet,Germany,0,2023-01-29 09:00:00,Large
+TXN820141,ENT2422,Manufacturing,9815.96,Office Supplies,UPI,India,0,2023-01-29 10:00:00,Medium
+TXN240288,ENT5520,Healthcare,9465.85,Office Supplies,Cash,Australia,0,2023-01-29 11:00:00,Large
+TXN459381,ENT7544,Technology,9731.03,Software,Credit Card,Germany,0,2023-01-29 12:00:00,Medium
+TXN613989,ENT6785,Finance,9520.09,Consulting,Bank Transfer,India,0,2023-01-29 13:00:00,Large
+TXN476701,ENT7474,Manufacturing,126.23,Office Supplies,Cash,Singapore,0,2023-01-29 14:00:00,Large
+TXN886553,ENT7642,Retail,7423.8,Software,Credit Card,USA,0,2023-01-29 15:00:00,Large
+TXN297579,ENT4281,Manufacturing,2755.75,Travel,Crypto Wallet,UK,0,2023-01-29 16:00:00,Large
+TXN272892,ENT9482,Healthcare,7065.02,Travel,Credit Card,Singapore,0,2023-01-29 17:00:00,Large
+TXN951452,ENT1251,Retail,9807.08,Software,Credit Card,Singapore,0,2023-01-29 18:00:00,Small
+TXN522986,ENT2124,Healthcare,441.63,Travel,Crypto Wallet,Germany,0,2023-01-29 19:00:00,Small
+TXN120053,ENT2477,Healthcare,5691.53,Advertising,Crypto Wallet,Germany,0,2023-01-29 20:00:00,Large
+TXN339513,ENT5661,Finance,7362.78,Travel,Bank Transfer,UK,0,2023-01-29 21:00:00,Large
+TXN335217,ENT6703,Technology,2570.92,Advertising,Cash,USA,0,2023-01-29 22:00:00,Large
+TXN862491,ENT6693,Finance,2289.96,Software,Credit Card,Singapore,0,2023-01-29 23:00:00,Medium
+TXN237579,ENT5530,Finance,650.44,Advertising,UPI,Australia,0,2023-01-30 00:00:00,Small
+TXN321449,ENT4707,Finance,984.5,Travel,UPI,Germany,0,2023-01-30 01:00:00,Medium
+TXN869735,ENT4187,Retail,6584.66,Office Supplies,Bank Transfer,Singapore,1,2023-01-30 02:00:00,Small
+TXN122977,ENT8450,Technology,5076.85,Advertising,UPI,USA,0,2023-01-30 03:00:00,Small
+TXN718337,ENT7618,Technology,349.22,Travel,Bank Transfer,India,0,2023-01-30 04:00:00,Large
+TXN629146,ENT1076,Retail,9698.13,Office Supplies,Cash,USA,0,2023-01-30 05:00:00,Large
+TXN277193,ENT5277,Finance,6577.66,Software,Bank Transfer,Singapore,0,2023-01-30 06:00:00,Medium
+TXN229144,ENT3867,Finance,5178.91,Software,Crypto Wallet,Singapore,0,2023-01-30 07:00:00,Medium
+TXN484398,ENT7670,Healthcare,2763.61,Consulting,Crypto Wallet,UK,0,2023-01-30 08:00:00,Large
+TXN845652,ENT9294,Healthcare,6598.08,Software,Crypto Wallet,Singapore,0,2023-01-30 09:00:00,Large
+TXN782141,ENT2744,Manufacturing,3673.47,Consulting,Crypto Wallet,Germany,0,2023-01-30 10:00:00,Small
+TXN930605,ENT2185,Healthcare,7039.82,Software,Crypto Wallet,Australia,0,2023-01-30 11:00:00,Small
+TXN139178,ENT9243,Technology,6841.59,Software,Crypto Wallet,UK,0,2023-01-30 12:00:00,Large
+TXN493417,ENT5821,Retail,972.8,Software,Crypto Wallet,Singapore,0,2023-01-30 13:00:00,Small
+TXN771425,ENT6570,Finance,9097.14,Consulting,Crypto Wallet,USA,0,2023-01-30 14:00:00,Medium
+TXN368214,ENT2917,Manufacturing,4895.39,Consulting,Crypto Wallet,Singapore,1,2023-01-30 15:00:00,Small
+TXN908713,ENT9409,Healthcare,3959.8,Advertising,Cash,USA,0,2023-01-30 16:00:00,Large
+TXN660708,ENT5222,Manufacturing,9556.85,Travel,Crypto Wallet,USA,0,2023-01-30 17:00:00,Small
+TXN753404,ENT9813,Retail,4410.18,Travel,Bank Transfer,Singapore,0,2023-01-30 18:00:00,Large
+TXN150947,ENT5098,Retail,7226.15,Travel,Cash,USA,0,2023-01-30 19:00:00,Small
+TXN722774,ENT8254,Manufacturing,6568.61,Software,UPI,Australia,0,2023-01-30 20:00:00,Medium
+TXN150290,ENT7178,Manufacturing,1693.14,Travel,Credit Card,India,0,2023-01-30 21:00:00,Medium
+TXN794125,ENT8923,Manufacturing,9911.87,Consulting,Cash,UK,0,2023-01-30 22:00:00,Large
+TXN213365,ENT4985,Finance,4662.86,Advertising,Crypto Wallet,Singapore,0,2023-01-30 23:00:00,Large
+TXN785315,ENT6565,Technology,3978.09,Office Supplies,Cash,India,0,2023-01-31 00:00:00,Large
+TXN976735,ENT8517,Healthcare,9200.15,Advertising,Credit Card,USA,0,2023-01-31 01:00:00,Small
+TXN120700,ENT8548,Healthcare,5315.92,Travel,Credit Card,USA,0,2023-01-31 02:00:00,Small
+TXN150578,ENT1448,Healthcare,7065.52,Travel,Crypto Wallet,UK,0,2023-01-31 03:00:00,Small
+TXN823255,ENT8896,Manufacturing,8470.15,Consulting,Crypto Wallet,India,0,2023-01-31 04:00:00,Medium
+TXN221414,ENT2904,Manufacturing,2393.17,Advertising,Bank Transfer,India,1,2023-01-31 05:00:00,Large
+TXN537020,ENT5224,Manufacturing,1736.19,Consulting,Credit Card,Singapore,0,2023-01-31 06:00:00,Small
+TXN565897,ENT2106,Finance,731.64,Consulting,Crypto Wallet,USA,0,2023-01-31 07:00:00,Medium
+TXN498724,ENT7269,Finance,8976.48,Office Supplies,Credit Card,Germany,0,2023-01-31 08:00:00,Large
+TXN229598,ENT4610,Finance,2043.65,Consulting,Bank Transfer,Singapore,0,2023-01-31 09:00:00,Medium
+TXN673867,ENT4767,Finance,3112.15,Consulting,UPI,Singapore,0,2023-01-31 10:00:00,Large
+TXN365015,ENT6172,Retail,2893.78,Office Supplies,Credit Card,Singapore,0,2023-01-31 11:00:00,Small
+TXN597440,ENT7757,Finance,3080.65,Software,Bank Transfer,UK,0,2023-01-31 12:00:00,Medium
+TXN835962,ENT6785,Finance,6697.21,Software,Bank Transfer,UK,0,2023-01-31 13:00:00,Medium
+TXN260565,ENT9462,Finance,9543.43,Office Supplies,Bank Transfer,Singapore,0,2023-01-31 14:00:00,Medium
+TXN315477,ENT9776,Healthcare,3328.06,Consulting,Cash,Australia,0,2023-01-31 15:00:00,Large
+TXN828961,ENT1159,Healthcare,4106.09,Travel,Crypto Wallet,Germany,0,2023-01-31 16:00:00,Large
+TXN819050,ENT5314,Healthcare,7722.91,Advertising,Credit Card,India,0,2023-01-31 17:00:00,Medium
+TXN760929,ENT5067,Technology,4351.76,Travel,Cash,India,0,2023-01-31 18:00:00,Large
+TXN109756,ENT5706,Retail,9264.13,Travel,Credit Card,USA,0,2023-01-31 19:00:00,Medium
+TXN415743,ENT2523,Manufacturing,5057.02,Consulting,Cash,India,0,2023-01-31 20:00:00,Small
+TXN541315,ENT7536,Finance,3509.96,Advertising,Crypto Wallet,India,0,2023-01-31 21:00:00,Medium
+TXN793805,ENT6603,Healthcare,9717.15,Advertising,Bank Transfer,Germany,0,2023-01-31 22:00:00,Medium
+TXN205885,ENT2245,Retail,4286.53,Software,Credit Card,India,0,2023-01-31 23:00:00,Large
+TXN794663,ENT3924,Finance,2350.19,Office Supplies,Bank Transfer,Germany,0,2023-02-01 00:00:00,Large
+TXN645583,ENT8807,Technology,1818.12,Consulting,Crypto Wallet,UK,0,2023-02-01 01:00:00,Large
+TXN383091,ENT6142,Manufacturing,9952.05,Advertising,Credit Card,Germany,0,2023-02-01 02:00:00,Small
+TXN753050,ENT6792,Finance,7542.23,Consulting,UPI,UK,0,2023-02-01 03:00:00,Small
+TXN735053,ENT4580,Manufacturing,4116.16,Software,UPI,Germany,0,2023-02-01 04:00:00,Small
+TXN834764,ENT5408,Finance,8272.32,Travel,UPI,Singapore,0,2023-02-01 05:00:00,Large
+TXN243826,ENT3994,Technology,5490.72,Advertising,Crypto Wallet,Australia,0,2023-02-01 06:00:00,Medium
+TXN539170,ENT4115,Retail,3208.03,Software,UPI,UK,0,2023-02-01 07:00:00,Medium
+TXN971002,ENT9175,Manufacturing,7446.69,Consulting,Credit Card,UK,0,2023-02-01 08:00:00,Medium
+TXN210010,ENT4271,Manufacturing,7471.65,Software,UPI,India,0,2023-02-01 09:00:00,Large
+TXN636435,ENT4847,Retail,5026.68,Software,Credit Card,UK,0,2023-02-01 10:00:00,Large
+TXN853681,ENT4965,Manufacturing,499.33,Software,Crypto Wallet,Germany,0,2023-02-01 11:00:00,Small
+TXN747703,ENT5348,Healthcare,816.37,Software,Bank Transfer,Singapore,0,2023-02-01 12:00:00,Large
+TXN223453,ENT4387,Retail,7898.06,Software,Cash,Singapore,0,2023-02-01 13:00:00,Medium
+TXN396439,ENT4755,Technology,8243.59,Software,UPI,India,0,2023-02-01 14:00:00,Small
+TXN219550,ENT4322,Finance,6798.98,Office Supplies,Cash,Germany,0,2023-02-01 15:00:00,Small
+TXN922880,ENT5091,Finance,8398.73,Consulting,Bank Transfer,Germany,0,2023-02-01 16:00:00,Large
+TXN211425,ENT6833,Retail,7208.9,Travel,Crypto Wallet,USA,0,2023-02-01 17:00:00,Small
+TXN621917,ENT3555,Healthcare,8974.5,Consulting,Crypto Wallet,UK,0,2023-02-01 18:00:00,Small
+TXN308296,ENT2747,Technology,1546.46,Advertising,Bank Transfer,India,0,2023-02-01 19:00:00,Large
+TXN738584,ENT2964,Finance,3908.03,Advertising,Cash,Singapore,0,2023-02-01 20:00:00,Small
+TXN309452,ENT2285,Finance,4667.9,Consulting,UPI,Australia,0,2023-02-01 21:00:00,Medium
+TXN915749,ENT9071,Healthcare,3011.75,Software,Credit Card,USA,0,2023-02-01 22:00:00,Large
+TXN375769,ENT1108,Manufacturing,7267.4,Office Supplies,Crypto Wallet,Germany,0,2023-02-01 23:00:00,Medium
+TXN971889,ENT9871,Retail,9128.77,Travel,Bank Transfer,UK,0,2023-02-02 00:00:00,Medium
+TXN648558,ENT1692,Healthcare,4154.2,Software,Cash,Singapore,0,2023-02-02 01:00:00,Medium
+TXN311469,ENT8901,Healthcare,9418.34,Consulting,UPI,USA,0,2023-02-02 02:00:00,Medium
+TXN475308,ENT7081,Healthcare,5191.85,Consulting,Cash,Germany,0,2023-02-02 03:00:00,Small
+TXN837606,ENT6167,Healthcare,5249.03,Office Supplies,UPI,Singapore,0,2023-02-02 04:00:00,Small
+TXN529660,ENT9066,Manufacturing,6022.18,Office Supplies,Credit Card,Singapore,0,2023-02-02 05:00:00,Large
+TXN409698,ENT5501,Technology,2719.89,Consulting,Credit Card,Germany,0,2023-02-02 06:00:00,Large
+TXN268163,ENT9041,Healthcare,3864.44,Software,Bank Transfer,Germany,0,2023-02-02 07:00:00,Medium
+TXN141319,ENT3996,Healthcare,5554.71,Software,Bank Transfer,India,0,2023-02-02 08:00:00,Medium
+TXN674765,ENT9374,Retail,9422.73,Software,UPI,Singapore,0,2023-02-02 09:00:00,Large
+TXN620465,ENT5591,Finance,6444.79,Travel,UPI,Germany,0,2023-02-02 10:00:00,Large
+TXN317782,ENT7518,Manufacturing,3364.51,Travel,UPI,Australia,0,2023-02-02 11:00:00,Large
+TXN821634,ENT4638,Healthcare,154.16,Software,UPI,Australia,0,2023-02-02 12:00:00,Large
+TXN604012,ENT3101,Technology,9817.57,Consulting,Credit Card,USA,0,2023-02-02 13:00:00,Medium
+TXN446663,ENT1887,Technology,4955.2,Office Supplies,Bank Transfer,UK,0,2023-02-02 14:00:00,Large
+TXN345896,ENT9613,Technology,9388.03,Advertising,Bank Transfer,Australia,0,2023-02-02 15:00:00,Small
+TXN102871,ENT7933,Retail,5515.99,Office Supplies,Crypto Wallet,India,0,2023-02-02 16:00:00,Medium
+TXN113368,ENT8836,Technology,6074.38,Office Supplies,Bank Transfer,Germany,0,2023-02-02 17:00:00,Small
+TXN804258,ENT9859,Retail,7133.53,Advertising,Bank Transfer,UK,0,2023-02-02 18:00:00,Large
+TXN193326,ENT1533,Manufacturing,3243.71,Software,Cash,India,0,2023-02-02 19:00:00,Small
+TXN215795,ENT9232,Technology,7004.89,Office Supplies,Cash,Singapore,0,2023-02-02 20:00:00,Large
+TXN975804,ENT6689,Finance,5291.58,Advertising,Crypto Wallet,UK,0,2023-02-02 21:00:00,Small
+TXN702042,ENT7450,Healthcare,6741.18,Consulting,UPI,Australia,0,2023-02-02 22:00:00,Medium
+TXN801520,ENT3863,Manufacturing,8366.54,Consulting,Crypto Wallet,India,0,2023-02-02 23:00:00,Small
+TXN618105,ENT8490,Finance,1883.08,Consulting,Crypto Wallet,Germany,1,2023-02-03 00:00:00,Medium
+TXN256389,ENT2972,Manufacturing,6154.83,Software,Credit Card,Germany,0,2023-02-03 01:00:00,Small
+TXN194458,ENT9490,Technology,568.51,Office Supplies,Bank Transfer,India,0,2023-02-03 02:00:00,Small
+TXN917392,ENT8537,Manufacturing,1066.05,Office Supplies,Credit Card,Singapore,0,2023-02-03 03:00:00,Medium
+TXN636561,ENT6171,Manufacturing,6762.21,Travel,Bank Transfer,Australia,0,2023-02-03 04:00:00,Medium
+TXN178693,ENT1137,Manufacturing,755.83,Consulting,Crypto Wallet,India,0,2023-02-03 05:00:00,Large
+TXN858711,ENT1193,Retail,5973.81,Software,Bank Transfer,USA,1,2023-02-03 06:00:00,Medium
+TXN858724,ENT4452,Finance,2239.13,Advertising,UPI,India,0,2023-02-03 07:00:00,Medium
+TXN206210,ENT7216,Technology,3075.64,Software,UPI,India,0,2023-02-03 08:00:00,Large
+TXN368322,ENT2650,Healthcare,1339.88,Office Supplies,Crypto Wallet,Australia,0,2023-02-03 09:00:00,Medium
+TXN775636,ENT6331,Technology,2524.24,Consulting,Cash,Germany,0,2023-02-03 10:00:00,Medium
+TXN342389,ENT6924,Technology,8221.85,Travel,UPI,Singapore,0,2023-02-03 11:00:00,Small
+TXN578938,ENT5254,Retail,6406.84,Software,Crypto Wallet,India,0,2023-02-03 12:00:00,Large
+TXN410401,ENT4066,Retail,9500.11,Travel,Credit Card,UK,1,2023-02-03 13:00:00,Large
+TXN376955,ENT9987,Manufacturing,535.01,Office Supplies,Cash,Germany,1,2023-02-03 14:00:00,Small
+TXN586830,ENT5306,Technology,7934.5,Advertising,UPI,Germany,0,2023-02-03 15:00:00,Large
+TXN152512,ENT4885,Finance,7005.82,Software,Crypto Wallet,India,0,2023-02-03 16:00:00,Small
+TXN204657,ENT5413,Retail,2645.88,Office Supplies,Crypto Wallet,Australia,0,2023-02-03 17:00:00,Medium
+TXN952679,ENT8722,Retail,7305.21,Consulting,Credit Card,UK,0,2023-02-03 18:00:00,Large
+TXN283188,ENT6621,Finance,7179.66,Software,Credit Card,India,0,2023-02-03 19:00:00,Medium
+TXN141360,ENT6995,Retail,4620.48,Travel,Cash,UK,0,2023-02-03 20:00:00,Large
+TXN993647,ENT4013,Finance,6901.96,Software,UPI,Germany,0,2023-02-03 21:00:00,Medium
+TXN404681,ENT9171,Healthcare,4473.58,Office Supplies,Crypto Wallet,UK,0,2023-02-03 22:00:00,Large
+TXN477712,ENT7945,Finance,3388.68,Office Supplies,Cash,India,0,2023-02-03 23:00:00,Large
+TXN940534,ENT4449,Healthcare,4691.59,Travel,Cash,USA,0,2023-02-04 00:00:00,Medium
+TXN809641,ENT7866,Manufacturing,8956.54,Office Supplies,Credit Card,USA,0,2023-02-04 01:00:00,Small
+TXN427897,ENT7099,Manufacturing,3876.61,Software,Crypto Wallet,UK,0,2023-02-04 02:00:00,Large
+TXN546688,ENT6981,Retail,4066.7,Travel,Bank Transfer,Australia,0,2023-02-04 03:00:00,Small
+TXN874415,ENT7563,Finance,6103.61,Office Supplies,Credit Card,India,0,2023-02-04 04:00:00,Small
+TXN221531,ENT5581,Retail,7542.34,Office Supplies,Crypto Wallet,Singapore,0,2023-02-04 05:00:00,Small
+TXN199613,ENT8384,Finance,7359.48,Software,Cash,USA,0,2023-02-04 06:00:00,Small
+TXN992596,ENT3947,Retail,247.0,Office Supplies,Cash,Germany,0,2023-02-04 07:00:00,Small
+TXN895034,ENT3148,Manufacturing,6889.78,Software,UPI,India,0,2023-02-04 08:00:00,Small
+TXN148118,ENT4744,Manufacturing,4533.01,Consulting,Bank Transfer,India,0,2023-02-04 09:00:00,Large
+TXN110142,ENT2636,Retail,5264.7,Software,Credit Card,USA,0,2023-02-04 10:00:00,Small
+TXN993385,ENT5422,Finance,5638.55,Advertising,UPI,Singapore,0,2023-02-04 11:00:00,Large
+TXN245117,ENT4863,Technology,7330.61,Office Supplies,UPI,Germany,0,2023-02-04 12:00:00,Large
+TXN795578,ENT8081,Finance,8321.76,Consulting,Bank Transfer,Singapore,0,2023-02-04 13:00:00,Large
+TXN778636,ENT7240,Retail,6480.3,Travel,Credit Card,Germany,0,2023-02-04 14:00:00,Medium
+TXN278795,ENT4212,Finance,5660.88,Advertising,Credit Card,USA,0,2023-02-04 15:00:00,Small
+TXN444625,ENT3389,Healthcare,3769.0,Travel,Cash,India,0,2023-02-04 16:00:00,Medium
+TXN474894,ENT3450,Finance,1421.89,Advertising,Credit Card,Germany,0,2023-02-04 17:00:00,Small
+TXN558976,ENT8749,Manufacturing,9587.85,Consulting,UPI,India,0,2023-02-04 18:00:00,Medium
+TXN752011,ENT1159,Manufacturing,4645.33,Consulting,Cash,UK,0,2023-02-04 19:00:00,Large
+TXN381342,ENT3893,Healthcare,5683.81,Consulting,Credit Card,UK,0,2023-02-04 20:00:00,Medium
+TXN868677,ENT7906,Finance,7523.18,Advertising,Bank Transfer,USA,0,2023-02-04 21:00:00,Large
+TXN197466,ENT9185,Technology,730.68,Software,UPI,USA,0,2023-02-04 22:00:00,Medium
+TXN490722,ENT3203,Finance,8557.36,Travel,Crypto Wallet,Australia,0,2023-02-04 23:00:00,Small
+TXN954551,ENT9470,Manufacturing,7980.41,Software,Bank Transfer,USA,0,2023-02-05 00:00:00,Small
+TXN459370,ENT9748,Manufacturing,7755.56,Software,Bank Transfer,UK,0,2023-02-05 01:00:00,Medium
+TXN291752,ENT6172,Retail,268.73,Office Supplies,Credit Card,Germany,0,2023-02-05 02:00:00,Medium
+TXN219361,ENT8972,Manufacturing,5288.86,Travel,Cash,Singapore,1,2023-02-05 03:00:00,Small
+TXN520245,ENT5915,Retail,589.97,Advertising,Cash,USA,0,2023-02-05 04:00:00,Medium
+TXN519692,ENT5111,Manufacturing,5531.18,Office Supplies,UPI,Singapore,0,2023-02-05 05:00:00,Medium
+TXN578715,ENT1781,Manufacturing,7198.56,Office Supplies,Credit Card,Singapore,0,2023-02-05 06:00:00,Small
+TXN385037,ENT7527,Technology,1262.41,Consulting,Cash,UK,0,2023-02-05 07:00:00,Large
+TXN976303,ENT2621,Retail,6964.09,Advertising,Crypto Wallet,Australia,0,2023-02-05 08:00:00,Small
+TXN504452,ENT3676,Retail,4522.85,Software,Credit Card,Germany,0,2023-02-05 09:00:00,Small
